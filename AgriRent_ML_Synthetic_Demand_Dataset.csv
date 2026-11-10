@@ -1,0 +1,1201 @@
+record_id,machinery_type,state,district,month,month_name,season,crop_type,farm_size_acres,rainfall_mm,average_temperature_c,rental_price_per_day_inr,previous_month_bookings,nearby_available_machinery_count,harvest_season_flag,monthly_demand_count,demand_level
+1,Harvester,Andhra Pradesh,Guntur,2,February,Rabi,Sugarcane,21.2,0.0,26.1,4569,38,12,0,37,High
+2,Harvester,Tamil Nadu,Coimbatore,10,October,Kharif,Maize,27.9,152.3,31.4,4752,20,4,1,47,High
+3,Thresher,Karnataka,Mysuru,11,November,Rabi,Maize,23.0,11.2,31.7,2159,28,12,1,39,High
+4,Harvester,Tamil Nadu,Coimbatore,10,October,Kharif,Paddy,5.5,165.1,34.4,4280,18,5,1,32,High
+5,Tractor,Tamil Nadu,Coimbatore,1,January,Rabi,Sugarcane,14.8,6.1,30.0,1960,5,2,0,20,Medium
+6,Rotavator,Andhra Pradesh,Guntur,10,October,Kharif,Vegetables,24.3,154.1,30.7,1546,28,2,0,40,High
+7,Sprayer,Karnataka,Mysuru,10,October,Kharif,Vegetables,21.4,138.8,26.6,646,29,0,0,43,High
+8,Power Tiller,Tamil Nadu,Erode,2,February,Rabi,Sugarcane,17.4,23.3,28.5,1070,4,10,0,22,Medium
+9,Harvester,Karnataka,Mysuru,8,August,Kharif,Millets,12.8,105.4,24.6,4003,9,15,0,18,Medium
+10,Power Tiller,Karnataka,Mandya,4,April,Summer,Cotton,23.7,46.9,27.1,1054,14,3,1,35,High
+11,Sprayer,Karnataka,Mysuru,2,February,Rabi,Groundnut,5.7,35.4,29.4,737,20,8,0,19,Medium
+12,Rotavator,Andhra Pradesh,Guntur,6,June,Kharif,Groundnut,11.5,99.4,26.0,1232,16,16,0,15,Medium
+13,Plough,Karnataka,Hassan,6,June,Kharif,Maize,21.8,117.3,27.4,797,35,8,0,38,High
+14,Tractor,Andhra Pradesh,Guntur,11,November,Rabi,Maize,17.8,14.2,25.7,1815,22,12,1,35,High
+15,Power Tiller,Tamil Nadu,Erode,4,April,Summer,Paddy,3.4,31.3,28.7,1163,29,3,1,34,High
+16,Tractor,Karnataka,Mandya,4,April,Summer,Cotton,5.9,0.0,26.8,1502,27,10,1,28,Medium
+17,Seed Drill,Telangana,Warangal,2,February,Rabi,Sugarcane,3.4,104.9,38.7,1259,35,2,0,23,Medium
+18,Rotavator,Telangana,Warangal,7,July,Kharif,Maize,16.1,128.6,29.6,1579,0,16,0,13,Low
+19,Tractor,Tamil Nadu,Coimbatore,4,April,Summer,Groundnut,9.2,34.8,33.3,1828,30,5,0,24,Medium
+20,Rotavator,Karnataka,Hassan,2,February,Rabi,Paddy,17.1,109.5,25.5,1540,43,5,0,43,High
+21,Seed Drill,Karnataka,Hassan,8,August,Kharif,Millets,28.1,165.6,26.6,1023,11,17,0,26,Medium
+22,Sprayer,Maharashtra,Pune,12,December,Rabi,Millets,26.9,45.0,33.9,718,15,11,0,31,High
+23,Sprayer,Karnataka,Mysuru,11,November,Rabi,Sugarcane,28.2,0.0,33.0,844,11,16,1,32,High
+24,Power Tiller,Andhra Pradesh,Guntur,2,February,Rabi,Vegetables,6.7,3.7,31.9,952,22,9,0,19,Medium
+25,Rotavator,Karnataka,Mysuru,12,December,Rabi,Maize,20.7,0.0,27.9,1258,5,13,0,16,Medium
+26,Sprayer,Karnataka,Mysuru,7,July,Kharif,Groundnut,22.4,151.1,26.5,672,5,8,0,25,Medium
+27,Rotavator,Telangana,Warangal,4,April,Summer,Millets,1.7,33.5,30.5,1217,41,13,0,23,Medium
+28,Plough,Karnataka,Mandya,2,February,Rabi,Cotton,28.1,24.9,23.6,836,38,0,0,47,High
+29,Sprayer,Maharashtra,Pune,4,April,Summer,Sugarcane,16.4,0.0,28.4,626,10,2,1,27,Medium
+30,Harvester,Tamil Nadu,Coimbatore,8,August,Kharif,Wheat,7.9,111.6,33.5,6068,39,1,0,35,High
+31,Thresher,Karnataka,Mandya,5,May,Summer,Maize,5.2,52.2,29.3,2100,13,10,0,9,Low
+32,Tractor,Andhra Pradesh,Guntur,2,February,Rabi,Paddy,6.1,15.6,31.4,2018,36,7,0,31,High
+33,Thresher,Tamil Nadu,Coimbatore,12,December,Rabi,Vegetables,2.3,31.6,34.3,2615,38,17,0,18,Medium
+34,Harvester,Telangana,Warangal,5,May,Summer,Cotton,3.9,66.7,30.8,4759,31,1,0,30,High
+35,Plough,Telangana,Warangal,10,October,Kharif,Maize,23.6,151.8,29.1,888,36,14,1,43,High
+36,Thresher,Maharashtra,Pune,7,July,Kharif,Sugarcane,12.2,156.2,30.9,2101,19,8,0,28,Medium
+37,Rotavator,Karnataka,Hassan,8,August,Kharif,Cotton,10.5,147.9,24.8,1343,16,14,0,21,Medium
+38,Seed Drill,Andhra Pradesh,Guntur,12,December,Rabi,Maize,16.5,96.0,31.3,1319,24,9,0,27,Medium
+39,Sprayer,Karnataka,Hassan,1,January,Rabi,Paddy,21.1,28.3,31.5,763,9,11,0,26,Medium
+40,Plough,Andhra Pradesh,Guntur,9,September,Kharif,Wheat,28.8,131.9,34.5,968,44,14,1,47,High
+41,Power Tiller,Karnataka,Hassan,2,February,Rabi,Paddy,18.9,12.2,31.5,1073,4,8,0,23,Medium
+42,Sprayer,Telangana,Warangal,6,June,Kharif,Vegetables,15.3,77.8,28.2,749,35,2,0,40,High
+43,Harvester,Tamil Nadu,Erode,6,June,Kharif,Millets,20.5,187.4,28.7,4626,34,11,0,32,High
+44,Rotavator,Karnataka,Hassan,4,April,Summer,Wheat,5.3,60.0,24.8,1378,5,13,1,17,Medium
+45,Sprayer,Telangana,Warangal,12,December,Rabi,Cotton,11.9,81.5,32.6,770,21,7,0,32,High
+46,Power Tiller,Karnataka,Mandya,2,February,Rabi,Paddy,18.1,19.0,28.3,1157,32,14,0,25,Medium
+47,Harvester,Tamil Nadu,Coimbatore,12,December,Rabi,Paddy,27.6,44.7,23.8,3252,13,0,0,36,High
+48,Thresher,Karnataka,Mysuru,11,November,Rabi,Paddy,30.0,11.8,28.4,2400,30,16,1,46,High
+49,Tractor,Karnataka,Hassan,3,March,Rabi,Vegetables,6.7,21.2,29.6,1742,34,0,0,34,High
+50,Power Tiller,Telangana,Warangal,1,January,Rabi,Vegetables,7.9,0.0,28.0,1089,43,16,0,26,Medium
+51,Thresher,Andhra Pradesh,Guntur,11,November,Rabi,Sugarcane,6.9,82.4,30.3,1978,1,8,1,20,Medium
+52,Tractor,Karnataka,Mysuru,2,February,Rabi,Maize,21.6,95.2,23.9,1884,3,11,0,23,Medium
+53,Sprayer,Maharashtra,Pune,3,March,Rabi,Sugarcane,3.7,16.3,26.8,645,7,9,1,22,Medium
+54,Power Tiller,Tamil Nadu,Coimbatore,10,October,Kharif,Wheat,28.4,138.0,23.6,1128,11,11,1,42,High
+55,Seed Drill,Karnataka,Mandya,2,February,Rabi,Groundnut,14.8,107.7,28.2,1223,18,1,0,25,Medium
+56,Power Tiller,Karnataka,Belagavi,4,April,Summer,Groundnut,12.9,0.0,23.2,751,27,5,0,24,Medium
+57,Seed Drill,Karnataka,Belagavi,4,April,Summer,Wheat,17.6,37.2,26.8,1159,10,10,1,32,High
+58,Sprayer,Karnataka,Belagavi,8,August,Kharif,Cotton,13.5,150.2,35.8,718,36,13,0,29,Medium
+59,Seed Drill,Telangana,Warangal,2,February,Rabi,Groundnut,24.2,50.1,27.4,1295,23,15,0,28,Medium
+60,Rotavator,Tamil Nadu,Erode,11,November,Rabi,Maize,6.0,67.7,22.5,1343,19,14,1,21,Medium
+61,Tractor,Karnataka,Belagavi,5,May,Summer,Wheat,4.5,0.0,26.4,2322,27,8,0,20,Medium
+62,Power Tiller,Karnataka,Mandya,10,October,Kharif,Groundnut,12.2,153.5,27.7,1094,34,9,0,32,High
+63,Thresher,Karnataka,Mandya,9,September,Kharif,Millets,17.1,118.9,32.0,2149,44,9,0,36,High
+64,Tractor,Maharashtra,Pune,6,June,Kharif,Vegetables,13.6,204.8,28.9,1596,10,16,0,20,Medium
+65,Rotavator,Karnataka,Hassan,8,August,Kharif,Wheat,18.0,66.2,25.6,1116,22,15,0,27,Medium
+66,Power Tiller,Karnataka,Belagavi,11,November,Rabi,Groundnut,23.1,42.1,25.0,1084,39,6,0,39,High
+67,Sprayer,Tamil Nadu,Coimbatore,4,April,Summer,Groundnut,15.6,14.3,25.7,613,38,6,0,28,Medium
+68,Harvester,Telangana,Warangal,5,May,Summer,Millets,19.3,0.0,32.7,4899,11,0,0,24,Medium
+69,Rotavator,Tamil Nadu,Coimbatore,9,September,Kharif,Wheat,1.2,159.2,25.3,1431,26,12,1,35,High
+70,Seed Drill,Telangana,Warangal,12,December,Rabi,Vegetables,27.2,0.0,26.5,1157,20,15,0,30,High
+71,Harvester,Andhra Pradesh,Guntur,7,July,Kharif,Groundnut,20.0,206.4,26.3,4634,24,14,0,24,Medium
+72,Tractor,Tamil Nadu,Coimbatore,9,September,Kharif,Vegetables,15.2,178.4,28.7,1416,10,7,0,22,Medium
+73,Seed Drill,Karnataka,Mysuru,8,August,Kharif,Cotton,27.8,176.7,29.3,957,36,17,0,32,High
+74,Power Tiller,Andhra Pradesh,Guntur,1,January,Rabi,Groundnut,23.4,6.8,26.2,1085,17,0,0,30,High
+75,Thresher,Tamil Nadu,Erode,2,February,Rabi,Sugarcane,15.9,13.3,29.4,2059,0,12,0,22,Medium
+76,Rotavator,Karnataka,Belagavi,11,November,Rabi,Vegetables,11.1,124.2,26.8,1074,20,7,0,24,Medium
+77,Tractor,Maharashtra,Pune,7,July,Kharif,Groundnut,10.9,97.7,32.1,2243,3,11,0,14,Low
+78,Tractor,Karnataka,Mandya,4,April,Summer,Cotton,29.9,0.0,22.8,1835,22,16,1,43,High
+79,Rotavator,Karnataka,Mandya,5,May,Summer,Paddy,6.9,36.2,25.4,1429,3,15,0,8,Low
+80,Plough,Telangana,Warangal,5,May,Summer,Vegetables,16.7,13.0,29.8,715,25,5,0,28,Medium
+81,Sprayer,Tamil Nadu,Coimbatore,4,April,Summer,Wheat,19.9,0.0,24.0,770,26,3,1,49,High
+82,Seed Drill,Karnataka,Hassan,2,February,Rabi,Vegetables,23.7,63.6,29.9,1380,26,12,0,28,Medium
+83,Seed Drill,Karnataka,Mandya,6,June,Kharif,Maize,19.9,135.1,28.9,1164,4,2,0,17,Medium
+84,Tractor,Karnataka,Hassan,1,January,Rabi,Paddy,8.1,1.3,25.3,1756,35,5,0,31,High
+85,Harvester,Karnataka,Mandya,11,November,Rabi,Vegetables,21.2,3.1,29.7,4380,2,4,0,24,Medium
+86,Tractor,Karnataka,Belagavi,5,May,Summer,Vegetables,1.0,17.6,24.4,1462,18,7,0,14,Low
+87,Rotavator,Maharashtra,Pune,6,June,Kharif,Wheat,8.0,97.6,27.2,1645,14,13,0,21,Medium
+88,Tractor,Tamil Nadu,Coimbatore,4,April,Summer,Sugarcane,21.6,27.0,29.6,1759,0,16,1,26,Medium
+89,Tractor,Karnataka,Mandya,12,December,Rabi,Wheat,19.0,70.1,31.6,1579,4,12,0,22,Medium
+90,Thresher,Tamil Nadu,Coimbatore,11,November,Rabi,Cotton,5.7,22.0,25.3,2203,11,16,1,17,Medium
+91,Plough,Tamil Nadu,Erode,12,December,Rabi,Paddy,24.6,64.9,29.9,947,16,5,0,34,High
+92,Rotavator,Maharashtra,Pune,3,March,Rabi,Paddy,1.9,0.0,30.3,1306,29,13,1,35,High
+93,Rotavator,Andhra Pradesh,Guntur,4,April,Summer,Paddy,18.2,25.4,30.6,1216,40,1,1,48,High
+94,Plough,Karnataka,Hassan,3,March,Rabi,Paddy,1.5,97.9,30.7,901,25,16,1,26,Medium
+95,Power Tiller,Tamil Nadu,Coimbatore,5,May,Summer,Wheat,2.5,0.0,29.5,1046,12,17,0,8,Low
+96,Power Tiller,Karnataka,Mandya,11,November,Rabi,Wheat,26.3,36.4,25.5,869,23,7,1,45,High
+97,Seed Drill,Andhra Pradesh,Guntur,7,July,Kharif,Maize,29.5,138.8,30.7,1170,34,0,0,45,High
+98,Harvester,Telangana,Warangal,10,October,Kharif,Paddy,26.8,135.9,30.7,4647,16,17,1,37,High
+99,Thresher,Karnataka,Mandya,9,September,Kharif,Millets,7.2,75.9,22.4,2207,41,11,0,28,Medium
+100,Sprayer,Tamil Nadu,Erode,5,May,Summer,Groundnut,23.7,79.7,24.6,668,31,15,0,25,Medium
+101,Tractor,Karnataka,Mysuru,7,July,Kharif,Sugarcane,1.7,216.7,28.1,2178,33,16,0,24,Medium
+102,Rotavator,Karnataka,Belagavi,11,November,Rabi,Cotton,17.8,10.2,30.9,1339,22,8,1,39,High
+103,Harvester,Karnataka,Belagavi,5,May,Summer,Vegetables,5.7,39.9,22.2,4859,5,13,0,5,Low
+104,Sprayer,Tamil Nadu,Erode,3,March,Rabi,Millets,9.1,64.1,24.0,665,2,8,0,14,Low
+105,Seed Drill,Karnataka,Mysuru,2,February,Rabi,Paddy,19.9,0.0,22.1,1198,43,2,0,42,High
+106,Thresher,Andhra Pradesh,Guntur,4,April,Summer,Millets,29.6,0.0,26.5,1911,18,2,0,38,High
+107,Tractor,Tamil Nadu,Coimbatore,3,March,Rabi,Vegetables,18.9,15.5,26.8,1808,38,8,0,39,High
+108,Power Tiller,Tamil Nadu,Coimbatore,2,February,Rabi,Groundnut,9.6,0.0,29.2,1012,1,13,0,16,Medium
+109,Tractor,Telangana,Warangal,8,August,Kharif,Wheat,3.9,152.4,26.8,1637,40,11,0,32,High
+110,Rotavator,Maharashtra,Pune,5,May,Summer,Groundnut,25.7,75.3,31.6,1629,14,4,0,27,Medium
+111,Thresher,Telangana,Warangal,1,January,Rabi,Paddy,16.0,100.9,29.5,2309,34,14,0,32,High
+112,Tractor,Karnataka,Mandya,6,June,Kharif,Millets,15.0,207.7,28.9,1927,43,3,0,40,High
+113,Tractor,Karnataka,Mysuru,11,November,Rabi,Wheat,10.3,52.2,31.6,1862,41,9,1,44,High
+114,Plough,Karnataka,Mandya,7,July,Kharif,Vegetables,22.5,89.7,29.4,951,30,6,0,32,High
+115,Sprayer,Karnataka,Belagavi,12,December,Rabi,Groundnut,22.8,49.3,32.9,711,28,9,0,31,High
+116,Tractor,Tamil Nadu,Coimbatore,6,June,Kharif,Millets,9.1,124.0,30.8,1807,19,2,0,26,Medium
+117,Plough,Karnataka,Belagavi,6,June,Kharif,Groundnut,22.1,188.7,26.8,746,14,1,0,33,High
+118,Rotavator,Tamil Nadu,Erode,6,June,Kharif,Wheat,20.7,163.1,29.9,1164,13,16,0,24,Medium
+119,Rotavator,Tamil Nadu,Erode,10,October,Kharif,Maize,11.6,196.0,27.7,1459,42,2,1,47,High
+120,Plough,Karnataka,Hassan,9,September,Kharif,Sugarcane,19.8,124.5,26.8,968,11,2,1,39,High
+121,Power Tiller,Andhra Pradesh,Guntur,4,April,Summer,Groundnut,1.6,0.0,34.3,939,29,16,0,10,Low
+122,Power Tiller,Karnataka,Mandya,11,November,Rabi,Wheat,9.0,23.2,29.9,1040,41,16,1,38,High
+123,Sprayer,Tamil Nadu,Coimbatore,12,December,Rabi,Vegetables,18.7,36.3,28.0,787,42,12,0,34,High
+124,Power Tiller,Tamil Nadu,Coimbatore,12,December,Rabi,Paddy,12.6,35.0,31.0,933,7,16,0,18,Medium
+125,Seed Drill,Karnataka,Hassan,4,April,Summer,Groundnut,19.3,0.0,25.4,1122,22,17,0,17,Medium
+126,Plough,Karnataka,Mysuru,12,December,Rabi,Groundnut,23.2,38.8,35.3,751,31,4,0,36,High
+127,Rotavator,Karnataka,Hassan,8,August,Kharif,Sugarcane,12.9,200.9,26.6,1590,26,10,0,29,Medium
+128,Rotavator,Tamil Nadu,Coimbatore,3,March,Rabi,Vegetables,25.3,32.3,27.4,1212,5,7,0,20,Medium
+129,Tractor,Karnataka,Mandya,4,April,Summer,Paddy,19.0,4.5,32.3,1852,19,16,1,33,High
+130,Rotavator,Tamil Nadu,Coimbatore,2,February,Rabi,Millets,20.2,0.0,23.4,1509,7,7,0,20,Medium
+131,Power Tiller,Tamil Nadu,Coimbatore,3,March,Rabi,Vegetables,29.8,77.9,32.7,1059,29,2,0,44,High
+132,Harvester,Karnataka,Mandya,12,December,Rabi,Sugarcane,2.5,53.2,24.7,4878,30,14,0,20,Medium
+133,Rotavator,Karnataka,Belagavi,12,December,Rabi,Wheat,24.2,0.0,27.3,1417,33,10,0,40,High
+134,Tractor,Karnataka,Hassan,11,November,Rabi,Cotton,3.0,50.8,28.0,1638,38,13,1,33,High
+135,Thresher,Tamil Nadu,Erode,5,May,Summer,Maize,5.3,0.0,25.3,2130,7,8,0,17,Medium
+136,Harvester,Tamil Nadu,Coimbatore,10,October,Kharif,Groundnut,8.5,151.3,27.7,4502,32,8,0,21,Medium
+137,Tractor,Karnataka,Mandya,5,May,Summer,Groundnut,4.4,41.6,26.8,2020,33,0,0,28,Medium
+138,Plough,Maharashtra,Pune,10,October,Kharif,Wheat,20.0,174.4,30.3,900,42,17,1,35,High
+139,Rotavator,Karnataka,Mandya,6,June,Kharif,Sugarcane,9.4,97.2,25.0,1255,29,6,0,36,High
+140,Tractor,Tamil Nadu,Coimbatore,10,October,Kharif,Paddy,18.4,83.2,27.6,1584,11,13,1,27,Medium
+141,Harvester,Tamil Nadu,Erode,5,May,Summer,Vegetables,16.1,0.0,30.6,4067,12,15,0,17,Medium
+142,Tractor,Tamil Nadu,Erode,1,January,Rabi,Millets,19.7,56.5,27.6,2130,37,8,0,34,High
+143,Tractor,Karnataka,Mysuru,6,June,Kharif,Sugarcane,6.7,117.6,32.5,1571,26,7,0,26,Medium
+144,Tractor,Karnataka,Mysuru,3,March,Rabi,Wheat,25.9,11.4,25.9,1610,23,6,1,46,High
+145,Tractor,Tamil Nadu,Erode,12,December,Rabi,Vegetables,28.0,0.0,23.9,1408,39,8,0,37,High
+146,Thresher,Telangana,Warangal,8,August,Kharif,Vegetables,24.8,164.4,32.3,1962,9,7,0,31,High
+147,Power Tiller,Telangana,Warangal,6,June,Kharif,Millets,5.9,110.7,26.4,1010,36,14,0,21,Medium
+148,Tractor,Tamil Nadu,Erode,5,May,Summer,Maize,6.6,79.3,31.8,1583,25,6,0,21,Medium
+149,Power Tiller,Karnataka,Belagavi,6,June,Kharif,Sugarcane,28.1,144.0,23.3,1116,41,17,0,36,High
+150,Power Tiller,Karnataka,Belagavi,7,July,Kharif,Cotton,10.3,177.1,27.9,1208,13,2,0,27,Medium
+151,Tractor,Karnataka,Belagavi,12,December,Rabi,Vegetables,22.9,31.0,25.5,1943,25,3,0,37,High
+152,Tractor,Tamil Nadu,Erode,8,August,Kharif,Millets,12.4,163.1,26.1,1805,27,0,0,39,High
+153,Tractor,Tamil Nadu,Erode,11,November,Rabi,Maize,25.7,0.0,30.4,1813,33,10,1,40,High
+154,Thresher,Telangana,Warangal,10,October,Kharif,Maize,17.4,155.9,28.7,2095,6,8,1,32,High
+155,Plough,Telangana,Warangal,3,March,Rabi,Vegetables,6.4,1.2,30.2,674,38,7,0,30,High
+156,Seed Drill,Tamil Nadu,Erode,10,October,Kharif,Millets,18.6,193.2,19.7,1149,5,2,0,28,Medium
+157,Rotavator,Maharashtra,Pune,3,March,Rabi,Groundnut,26.4,27.9,31.1,1150,13,7,0,27,Medium
+158,Power Tiller,Karnataka,Mandya,9,September,Kharif,Sugarcane,18.9,158.0,30.9,1035,41,3,1,50,High
+159,Rotavator,Karnataka,Mandya,7,July,Kharif,Wheat,28.5,159.5,29.2,1712,4,4,0,33,High
+160,Thresher,Maharashtra,Pune,1,January,Rabi,Groundnut,13.4,50.0,31.3,2060,16,17,0,26,Medium
+161,Sprayer,Karnataka,Mysuru,8,August,Kharif,Cotton,27.2,141.1,29.7,591,13,16,0,28,Medium
+162,Thresher,Telangana,Warangal,2,February,Rabi,Wheat,16.5,17.3,28.8,2132,35,8,0,38,High
+163,Rotavator,Telangana,Warangal,3,March,Rabi,Vegetables,9.3,0.0,34.0,1609,8,2,0,14,Low
+164,Plough,Tamil Nadu,Erode,9,September,Kharif,Vegetables,28.4,149.1,29.1,960,17,9,0,32,High
+165,Sprayer,Telangana,Warangal,3,March,Rabi,Vegetables,14.2,29.2,24.7,707,21,2,0,24,Medium
+166,Sprayer,Andhra Pradesh,Guntur,2,February,Rabi,Sugarcane,28.0,86.7,28.4,738,38,3,0,51,High
+167,Seed Drill,Karnataka,Mandya,10,October,Kharif,Groundnut,29.3,191.4,27.0,1170,42,16,0,37,High
+168,Seed Drill,Karnataka,Belagavi,1,January,Rabi,Millets,16.6,34.7,29.5,1139,38,11,0,26,Medium
+169,Rotavator,Telangana,Warangal,8,August,Kharif,Paddy,7.6,184.8,32.9,1404,4,5,0,19,Medium
+170,Tractor,Tamil Nadu,Erode,10,October,Kharif,Maize,19.9,118.1,30.5,1998,34,12,1,44,High
+171,Tractor,Telangana,Warangal,9,September,Kharif,Vegetables,15.4,158.3,29.7,1704,4,4,0,19,Medium
+172,Seed Drill,Telangana,Warangal,12,December,Rabi,Sugarcane,2.9,0.0,34.3,1179,27,0,0,35,High
+173,Thresher,Tamil Nadu,Coimbatore,1,January,Rabi,Maize,2.7,52.8,27.7,2095,21,16,0,15,Medium
+174,Thresher,Andhra Pradesh,Guntur,6,June,Kharif,Groundnut,11.1,162.5,32.9,2008,31,6,0,32,High
+175,Seed Drill,Maharashtra,Pune,8,August,Kharif,Paddy,14.3,100.1,24.7,1215,33,6,0,34,High
+176,Sprayer,Karnataka,Hassan,3,March,Rabi,Millets,8.9,108.4,23.6,667,12,3,0,23,Medium
+177,Thresher,Tamil Nadu,Coimbatore,4,April,Summer,Groundnut,21.5,0.0,30.6,1837,34,14,0,30,High
+178,Rotavator,Karnataka,Belagavi,2,February,Rabi,Wheat,17.0,0.0,26.9,1214,10,14,0,16,Medium
+179,Harvester,Maharashtra,Pune,2,February,Rabi,Sugarcane,8.0,81.4,31.0,4385,36,6,0,26,Medium
+180,Sprayer,Karnataka,Mandya,5,May,Summer,Maize,8.9,27.4,29.6,775,38,6,0,21,Medium
+181,Plough,Andhra Pradesh,Guntur,7,July,Kharif,Maize,19.6,82.3,26.2,603,22,7,0,29,Medium
+182,Sprayer,Karnataka,Belagavi,11,November,Rabi,Sugarcane,3.4,29.0,21.6,751,22,7,1,31,High
+183,Thresher,Tamil Nadu,Coimbatore,10,October,Kharif,Millets,7.5,176.2,22.9,1954,4,12,0,13,Low
+184,Rotavator,Karnataka,Mandya,11,November,Rabi,Sugarcane,8.8,82.7,27.3,1100,44,10,1,45,High
+185,Tractor,Karnataka,Mandya,3,March,Rabi,Groundnut,28.5,22.2,23.9,1664,2,12,0,26,Medium
+186,Thresher,Telangana,Warangal,3,March,Rabi,Maize,27.5,39.9,27.6,1897,18,4,1,41,High
+187,Rotavator,Telangana,Warangal,5,May,Summer,Paddy,13.5,25.9,29.3,1457,19,10,0,17,Medium
+188,Tractor,Andhra Pradesh,Guntur,5,May,Summer,Paddy,17.6,0.0,31.0,2056,40,9,0,36,High
+189,Harvester,Karnataka,Mysuru,10,October,Kharif,Maize,11.8,183.0,25.0,4254,33,7,1,37,High
+190,Power Tiller,Andhra Pradesh,Guntur,6,June,Kharif,Groundnut,29.5,165.8,31.0,1028,3,4,0,25,Medium
+191,Tractor,Andhra Pradesh,Guntur,2,February,Rabi,Sugarcane,6.8,24.1,34.1,1909,21,3,0,25,Medium
+192,Sprayer,Tamil Nadu,Erode,10,October,Kharif,Maize,8.9,148.5,28.2,643,23,7,1,43,High
+193,Harvester,Maharashtra,Pune,5,May,Summer,Maize,5.7,26.6,32.3,5134,1,7,0,15,Medium
+194,Thresher,Karnataka,Mysuru,12,December,Rabi,Wheat,2.5,72.7,24.3,1980,24,13,0,20,Medium
+195,Plough,Maharashtra,Pune,2,February,Rabi,Paddy,13.8,35.3,29.4,741,32,0,0,27,Medium
+196,Tractor,Telangana,Warangal,10,October,Kharif,Wheat,15.6,145.8,33.5,1761,37,14,1,40,High
+197,Sprayer,Karnataka,Hassan,10,October,Kharif,Maize,16.2,95.1,29.2,552,30,0,1,44,High
+198,Plough,Karnataka,Belagavi,9,September,Kharif,Maize,19.5,212.9,31.6,824,26,7,1,41,High
+199,Sprayer,Karnataka,Hassan,2,February,Rabi,Cotton,29.4,39.7,29.4,680,17,3,0,37,High
+200,Power Tiller,Telangana,Warangal,5,May,Summer,Vegetables,1.7,0.0,26.9,935,27,8,0,15,Medium
+201,Thresher,Karnataka,Belagavi,6,June,Kharif,Vegetables,12.5,180.6,26.4,1784,1,9,0,16,Medium
+202,Tractor,Tamil Nadu,Coimbatore,11,November,Rabi,Cotton,23.6,118.1,22.8,1843,15,17,1,32,High
+203,Sprayer,Tamil Nadu,Erode,2,February,Rabi,Millets,14.8,19.1,28.8,786,23,0,0,27,Medium
+204,Rotavator,Telangana,Warangal,11,November,Rabi,Cotton,5.1,0.0,30.4,1301,37,5,1,39,High
+205,Tractor,Karnataka,Mandya,4,April,Summer,Wheat,3.1,92.3,31.4,1821,5,9,1,20,Medium
+206,Sprayer,Karnataka,Mysuru,10,October,Kharif,Groundnut,26.6,148.9,27.4,578,18,8,0,35,High
+207,Tractor,Tamil Nadu,Coimbatore,3,March,Rabi,Sugarcane,8.6,21.4,32.4,1909,35,12,1,39,High
+208,Thresher,Maharashtra,Pune,4,April,Summer,Paddy,23.2,7.8,32.7,1995,29,16,1,36,High
+209,Rotavator,Tamil Nadu,Erode,12,December,Rabi,Maize,19.0,114.4,24.9,1411,24,5,0,29,Medium
+210,Power Tiller,Tamil Nadu,Erode,9,September,Kharif,Paddy,14.0,145.0,24.3,1101,14,7,1,44,High
+211,Thresher,Karnataka,Hassan,10,October,Kharif,Sugarcane,23.1,104.7,33.1,2495,24,12,1,36,High
+212,Seed Drill,Tamil Nadu,Erode,12,December,Rabi,Cotton,22.4,63.3,28.3,849,23,16,0,29,Medium
+213,Plough,Tamil Nadu,Coimbatore,7,July,Kharif,Cotton,6.2,185.5,23.0,899,20,11,0,18,Medium
+214,Sprayer,Andhra Pradesh,Guntur,6,June,Kharif,Paddy,17.5,144.8,28.3,662,18,11,0,28,Medium
+215,Harvester,Tamil Nadu,Erode,5,May,Summer,Maize,7.7,41.7,28.0,4521,34,8,0,19,Medium
+216,Rotavator,Andhra Pradesh,Guntur,11,November,Rabi,Maize,8.3,41.0,28.6,1511,0,17,1,19,Medium
+217,Thresher,Tamil Nadu,Erode,5,May,Summer,Sugarcane,6.9,47.6,25.4,2377,41,16,0,31,High
+218,Plough,Telangana,Warangal,6,June,Kharif,Millets,24.2,152.0,26.6,944,3,10,0,23,Medium
+219,Harvester,Tamil Nadu,Erode,7,July,Kharif,Groundnut,10.7,129.4,28.0,4974,33,9,0,25,Medium
+220,Rotavator,Karnataka,Mysuru,11,November,Rabi,Vegetables,17.1,21.5,30.0,1292,11,11,0,20,Medium
+221,Tractor,Karnataka,Mysuru,9,September,Kharif,Millets,1.6,186.5,29.2,1498,26,4,0,21,Medium
+222,Tractor,Tamil Nadu,Coimbatore,6,June,Kharif,Vegetables,26.9,155.5,27.4,1946,15,9,0,32,High
+223,Power Tiller,Karnataka,Mandya,11,November,Rabi,Wheat,18.4,0.0,22.5,1087,32,16,1,42,High
+224,Rotavator,Andhra Pradesh,Guntur,6,June,Kharif,Paddy,11.2,134.0,30.3,1062,24,11,0,23,Medium
+225,Thresher,Andhra Pradesh,Guntur,8,August,Kharif,Wheat,4.0,122.6,26.6,1630,32,3,0,29,Medium
+226,Harvester,Karnataka,Mandya,1,January,Rabi,Sugarcane,6.1,0.0,26.3,5078,27,16,0,21,Medium
+227,Plough,Telangana,Warangal,4,April,Summer,Cotton,23.1,8.6,31.3,815,0,3,1,31,High
+228,Thresher,Karnataka,Mysuru,7,July,Kharif,Cotton,18.8,128.4,31.1,2116,29,13,0,26,Medium
+229,Thresher,Andhra Pradesh,Guntur,9,September,Kharif,Cotton,15.8,108.3,28.3,1931,21,0,1,43,High
+230,Tractor,Andhra Pradesh,Guntur,5,May,Summer,Sugarcane,28.3,70.3,25.9,2146,29,6,0,34,High
+231,Power Tiller,Karnataka,Hassan,10,October,Kharif,Sugarcane,8.5,107.0,21.5,954,41,8,1,39,High
+232,Rotavator,Karnataka,Hassan,2,February,Rabi,Paddy,14.8,37.0,28.7,1101,1,15,0,16,Medium
+233,Harvester,Maharashtra,Pune,4,April,Summer,Vegetables,19.9,4.5,30.5,4154,42,5,0,37,High
+234,Power Tiller,Karnataka,Mandya,2,February,Rabi,Paddy,9.3,31.9,26.7,1095,24,9,0,23,Medium
+235,Power Tiller,Karnataka,Mysuru,6,June,Kharif,Maize,19.9,83.7,28.7,1189,16,6,0,27,Medium
+236,Thresher,Karnataka,Mysuru,6,June,Kharif,Sugarcane,16.4,122.5,27.1,2252,34,6,0,33,High
+237,Sprayer,Karnataka,Mysuru,9,September,Kharif,Vegetables,1.6,183.8,28.3,732,42,13,0,25,Medium
+238,Plough,Telangana,Warangal,10,October,Kharif,Millets,2.2,126.7,31.3,927,35,6,0,29,Medium
+239,Harvester,Karnataka,Mysuru,3,March,Rabi,Paddy,10.4,0.0,33.3,4855,37,0,1,46,High
+240,Seed Drill,Karnataka,Mysuru,2,February,Rabi,Paddy,13.3,51.7,28.0,1086,43,4,0,38,High
+241,Harvester,Maharashtra,Pune,9,September,Kharif,Wheat,25.8,157.2,28.6,5206,12,4,1,46,High
+242,Tractor,Karnataka,Belagavi,3,March,Rabi,Sugarcane,6.8,18.8,31.0,1585,16,4,1,36,High
+243,Sprayer,Karnataka,Belagavi,5,May,Summer,Sugarcane,11.5,0.0,30.0,741,20,0,0,22,Medium
+244,Tractor,Tamil Nadu,Erode,11,November,Rabi,Sugarcane,4.6,135.0,29.1,1925,40,16,1,30,High
+245,Sprayer,Andhra Pradesh,Guntur,2,February,Rabi,Groundnut,10.9,44.6,31.1,674,44,14,0,32,High
+246,Tractor,Karnataka,Mysuru,3,March,Rabi,Millets,8.7,23.0,23.8,1372,15,4,0,23,Medium
+247,Harvester,Karnataka,Mandya,4,April,Summer,Sugarcane,10.8,0.0,29.2,4709,17,4,1,34,High
+248,Plough,Karnataka,Belagavi,3,March,Rabi,Millets,15.6,18.6,26.1,950,3,13,0,16,Medium
+249,Harvester,Telangana,Warangal,6,June,Kharif,Paddy,24.4,180.5,27.6,3523,34,16,0,38,High
+250,Tractor,Karnataka,Hassan,12,December,Rabi,Groundnut,2.0,25.2,26.5,2102,23,15,0,13,Low
+251,Harvester,Karnataka,Hassan,10,October,Kharif,Vegetables,14.0,157.0,29.5,4360,1,0,0,24,Medium
+252,Thresher,Telangana,Warangal,11,November,Rabi,Sugarcane,10.5,36.5,27.6,2217,16,9,1,32,High
+253,Seed Drill,Karnataka,Belagavi,10,October,Kharif,Cotton,24.9,153.4,35.0,1145,18,8,1,37,High
+254,Tractor,Telangana,Warangal,12,December,Rabi,Cotton,5.9,46.2,33.8,1779,7,16,0,20,Medium
+255,Sprayer,Tamil Nadu,Erode,5,May,Summer,Maize,18.3,57.8,26.9,710,2,5,0,21,Medium
+256,Tractor,Karnataka,Belagavi,4,April,Summer,Millets,26.9,46.0,29.0,1625,15,12,0,23,Medium
+257,Tractor,Karnataka,Mandya,6,June,Kharif,Groundnut,14.2,195.5,29.9,1930,44,16,0,43,High
+258,Plough,Tamil Nadu,Erode,2,February,Rabi,Millets,10.1,5.2,24.8,867,13,3,0,22,Medium
+259,Sprayer,Karnataka,Hassan,11,November,Rabi,Cotton,2.1,21.9,34.4,719,3,8,1,15,Medium
+260,Sprayer,Karnataka,Belagavi,2,February,Rabi,Millets,5.0,18.6,34.0,746,21,5,0,17,Medium
+261,Rotavator,Karnataka,Belagavi,6,June,Kharif,Groundnut,6.7,143.7,28.0,1363,17,4,0,21,Medium
+262,Sprayer,Karnataka,Mysuru,5,May,Summer,Sugarcane,18.0,62.8,27.1,661,41,14,0,34,High
+263,Sprayer,Karnataka,Belagavi,9,September,Kharif,Cotton,14.3,212.2,25.4,701,44,12,1,43,High
+264,Sprayer,Maharashtra,Pune,10,October,Kharif,Vegetables,19.2,123.1,30.3,633,23,15,0,26,Medium
+265,Tractor,Tamil Nadu,Erode,2,February,Rabi,Wheat,19.8,52.0,24.8,1522,38,12,0,33,High
+266,Tractor,Tamil Nadu,Coimbatore,9,September,Kharif,Millets,23.2,118.4,27.1,2065,7,12,0,18,Medium
+267,Rotavator,Karnataka,Hassan,3,March,Rabi,Groundnut,22.1,8.9,27.8,1595,1,17,0,15,Medium
+268,Seed Drill,Karnataka,Hassan,12,December,Rabi,Sugarcane,13.6,0.0,29.0,1235,13,10,0,23,Medium
+269,Tractor,Telangana,Warangal,8,August,Kharif,Sugarcane,6.2,166.7,32.4,1931,17,1,0,20,Medium
+270,Plough,Maharashtra,Pune,10,October,Kharif,Paddy,2.9,172.1,32.7,913,17,17,1,19,Medium
+271,Power Tiller,Karnataka,Mandya,2,February,Rabi,Sugarcane,17.8,35.5,31.3,1033,22,13,0,27,Medium
+272,Thresher,Maharashtra,Pune,6,June,Kharif,Maize,17.5,94.7,31.3,2501,23,13,0,24,Medium
+273,Tractor,Andhra Pradesh,Guntur,1,January,Rabi,Millets,25.2,17.2,29.1,1694,38,9,0,29,Medium
+274,Seed Drill,Andhra Pradesh,Guntur,11,November,Rabi,Sugarcane,24.1,102.7,30.0,1385,18,2,1,47,High
+275,Seed Drill,Karnataka,Mysuru,12,December,Rabi,Paddy,20.3,47.8,27.1,1258,39,1,0,41,High
+276,Harvester,Karnataka,Belagavi,5,May,Summer,Maize,9.9,25.4,20.8,4779,36,15,0,29,Medium
+277,Sprayer,Karnataka,Mandya,7,July,Kharif,Millets,7.9,159.1,27.9,658,38,5,0,41,High
+278,Tractor,Karnataka,Belagavi,10,October,Kharif,Groundnut,3.1,201.8,27.4,1356,25,0,0,31,High
+279,Rotavator,Telangana,Warangal,3,March,Rabi,Sugarcane,4.6,61.2,32.0,1504,8,12,1,24,Medium
+280,Sprayer,Karnataka,Mandya,10,October,Kharif,Wheat,17.1,161.3,31.6,831,24,12,1,34,High
+281,Seed Drill,Karnataka,Belagavi,6,June,Kharif,Millets,4.1,189.2,26.8,1072,21,15,0,13,Low
+282,Tractor,Andhra Pradesh,Guntur,12,December,Rabi,Vegetables,3.8,22.6,22.7,1908,2,12,0,10,Low
+283,Thresher,Andhra Pradesh,Guntur,4,April,Summer,Millets,18.0,6.9,32.1,2037,32,1,0,36,High
+284,Harvester,Andhra Pradesh,Guntur,8,August,Kharif,Vegetables,29.9,174.7,25.0,4666,15,8,0,30,High
+285,Harvester,Karnataka,Mysuru,1,January,Rabi,Vegetables,18.0,19.4,30.9,4651,26,5,0,29,Medium
+286,Tractor,Karnataka,Mysuru,10,October,Kharif,Maize,16.3,67.0,26.4,1605,17,10,1,28,Medium
+287,Thresher,Andhra Pradesh,Guntur,1,January,Rabi,Sugarcane,18.1,12.9,31.8,1585,26,0,0,35,High
+288,Rotavator,Karnataka,Hassan,9,September,Kharif,Paddy,5.1,189.7,34.3,1303,17,9,1,37,High
+289,Rotavator,Karnataka,Mysuru,12,December,Rabi,Paddy,12.1,26.5,25.1,1234,36,3,0,39,High
+290,Plough,Telangana,Warangal,5,May,Summer,Millets,16.1,0.0,32.2,988,30,8,0,25,Medium
+291,Plough,Andhra Pradesh,Guntur,8,August,Kharif,Sugarcane,9.0,135.9,31.6,810,37,1,0,35,High
+292,Harvester,Andhra Pradesh,Guntur,7,July,Kharif,Sugarcane,4.5,82.9,26.2,3790,16,2,0,21,Medium
+293,Tractor,Tamil Nadu,Coimbatore,11,November,Rabi,Maize,17.3,58.2,28.0,1700,7,7,1,33,High
+294,Plough,Telangana,Warangal,2,February,Rabi,Vegetables,19.3,0.0,30.6,982,23,0,0,38,High
+295,Sprayer,Tamil Nadu,Erode,11,November,Rabi,Wheat,1.4,31.0,28.3,771,16,9,1,25,Medium
+296,Plough,Karnataka,Belagavi,5,May,Summer,Wheat,10.3,0.0,31.3,1138,4,11,0,4,Low
+297,Sprayer,Karnataka,Hassan,4,April,Summer,Millets,8.6,60.3,29.5,802,1,11,0,14,Low
+298,Seed Drill,Andhra Pradesh,Guntur,9,September,Kharif,Cotton,12.5,128.9,35.1,1231,3,17,1,22,Medium
+299,Sprayer,Tamil Nadu,Erode,8,August,Kharif,Sugarcane,16.8,90.1,27.4,849,37,16,0,32,High
+300,Tractor,Karnataka,Hassan,2,February,Rabi,Vegetables,3.2,58.9,27.8,1719,39,6,0,27,Medium
+301,Harvester,Tamil Nadu,Coimbatore,3,March,Rabi,Vegetables,26.9,28.9,31.1,4032,34,8,0,41,High
+302,Plough,Tamil Nadu,Erode,2,February,Rabi,Millets,12.9,23.8,30.4,895,22,0,0,27,Medium
+303,Rotavator,Tamil Nadu,Erode,6,June,Kharif,Vegetables,11.2,146.2,26.7,1049,29,5,0,29,Medium
+304,Seed Drill,Karnataka,Hassan,10,October,Kharif,Wheat,26.0,202.2,29.1,1206,40,17,1,53,High
+305,Power Tiller,Telangana,Warangal,8,August,Kharif,Wheat,17.3,86.7,31.4,1272,19,17,0,28,Medium
+306,Thresher,Tamil Nadu,Coimbatore,1,January,Rabi,Groundnut,16.1,6.4,25.1,2534,11,14,0,15,Medium
+307,Sprayer,Andhra Pradesh,Guntur,9,September,Kharif,Millets,26.0,184.8,30.2,818,25,16,0,32,High
+308,Thresher,Karnataka,Mysuru,10,October,Kharif,Millets,13.2,175.0,23.2,1982,40,16,0,31,High
+309,Tractor,Tamil Nadu,Erode,5,May,Summer,Vegetables,25.4,21.9,28.6,2054,10,3,0,24,Medium
+310,Thresher,Tamil Nadu,Erode,6,June,Kharif,Paddy,17.7,91.6,30.5,2040,12,7,0,20,Medium
+311,Seed Drill,Tamil Nadu,Erode,4,April,Summer,Paddy,24.7,83.0,25.9,1101,21,10,1,40,High
+312,Power Tiller,Tamil Nadu,Erode,11,November,Rabi,Maize,22.4,86.3,25.5,994,21,9,1,35,High
+313,Thresher,Karnataka,Belagavi,5,May,Summer,Wheat,26.4,49.1,31.6,2113,44,16,0,40,High
+314,Power Tiller,Andhra Pradesh,Guntur,5,May,Summer,Cotton,12.2,0.0,27.1,1173,22,16,0,22,Medium
+315,Power Tiller,Karnataka,Mandya,5,May,Summer,Vegetables,8.2,0.0,31.9,900,43,5,0,28,Medium
+316,Tractor,Karnataka,Belagavi,7,July,Kharif,Cotton,15.9,165.7,25.0,1648,19,3,0,25,Medium
+317,Tractor,Maharashtra,Pune,11,November,Rabi,Wheat,26.9,34.3,28.0,1949,17,0,1,45,High
+318,Harvester,Maharashtra,Pune,5,May,Summer,Wheat,16.4,79.8,31.5,3542,13,15,0,26,Medium
+319,Rotavator,Andhra Pradesh,Guntur,3,March,Rabi,Sugarcane,7.0,39.9,24.7,1359,35,17,1,26,Medium
+320,Thresher,Karnataka,Mysuru,3,March,Rabi,Paddy,26.6,22.2,32.2,2451,23,12,1,42,High
+321,Plough,Tamil Nadu,Erode,6,June,Kharif,Cotton,10.2,179.2,31.6,922,4,1,0,22,Medium
+322,Plough,Karnataka,Hassan,9,September,Kharif,Wheat,24.2,148.2,30.1,891,27,6,1,45,High
+323,Rotavator,Tamil Nadu,Coimbatore,7,July,Kharif,Cotton,4.4,112.0,28.5,1616,6,5,0,16,Medium
+324,Power Tiller,Andhra Pradesh,Guntur,3,March,Rabi,Cotton,28.1,29.1,35.5,848,20,13,1,34,High
+325,Power Tiller,Maharashtra,Pune,10,October,Kharif,Cotton,11.2,116.9,29.3,1294,28,0,1,37,High
+326,Power Tiller,Tamil Nadu,Erode,6,June,Kharif,Paddy,8.1,185.7,31.5,1125,40,2,0,35,High
+327,Sprayer,Maharashtra,Pune,3,March,Rabi,Sugarcane,1.8,0.0,30.3,790,1,4,1,24,Medium
+328,Rotavator,Andhra Pradesh,Guntur,6,June,Kharif,Groundnut,2.6,125.7,25.1,1310,2,8,0,10,Low
+329,Sprayer,Maharashtra,Pune,10,October,Kharif,Wheat,14.1,176.9,32.9,748,9,6,1,32,High
+330,Rotavator,Tamil Nadu,Coimbatore,8,August,Kharif,Maize,2.3,133.8,29.4,1230,34,4,0,25,Medium
+331,Rotavator,Tamil Nadu,Erode,5,May,Summer,Cotton,23.3,25.4,27.8,1303,2,5,0,27,Medium
+332,Sprayer,Karnataka,Hassan,10,October,Kharif,Millets,20.2,188.5,30.0,747,30,9,0,34,High
+333,Harvester,Karnataka,Mysuru,7,July,Kharif,Vegetables,12.9,115.6,25.4,4558,5,13,0,11,Low
+334,Tractor,Karnataka,Belagavi,8,August,Kharif,Wheat,4.4,127.8,26.9,1709,14,9,0,20,Medium
+335,Tractor,Karnataka,Mandya,2,February,Rabi,Maize,10.5,64.5,23.4,1864,24,8,0,22,Medium
+336,Tractor,Karnataka,Mandya,12,December,Rabi,Wheat,29.5,102.4,23.0,2338,32,1,0,48,High
+337,Power Tiller,Karnataka,Mandya,5,May,Summer,Cotton,12.1,44.4,28.7,1143,18,8,0,19,Medium
+338,Plough,Tamil Nadu,Erode,5,May,Summer,Paddy,27.8,1.7,24.9,838,23,9,0,34,High
+339,Tractor,Tamil Nadu,Coimbatore,2,February,Rabi,Vegetables,25.8,43.5,25.5,2140,10,9,0,27,Medium
+340,Power Tiller,Tamil Nadu,Erode,1,January,Rabi,Paddy,18.1,57.2,25.6,1367,15,12,0,19,Medium
+341,Seed Drill,Karnataka,Mandya,7,July,Kharif,Groundnut,20.3,85.5,26.0,1045,39,16,0,32,High
+342,Plough,Maharashtra,Pune,3,March,Rabi,Wheat,24.6,5.9,31.2,933,5,5,1,38,High
+343,Thresher,Telangana,Warangal,1,January,Rabi,Millets,23.5,40.0,28.8,2112,6,3,0,29,Medium
+344,Tractor,Karnataka,Hassan,5,May,Summer,Wheat,27.5,1.8,26.0,1538,33,10,0,37,High
+345,Rotavator,Tamil Nadu,Coimbatore,12,December,Rabi,Vegetables,17.6,70.7,26.4,1331,12,4,0,30,High
+346,Seed Drill,Karnataka,Belagavi,2,February,Rabi,Vegetables,20.0,18.0,33.7,1199,7,11,0,21,Medium
+347,Power Tiller,Karnataka,Mysuru,9,September,Kharif,Wheat,8.0,181.9,25.8,1026,2,3,1,26,Medium
+348,Thresher,Karnataka,Mandya,8,August,Kharif,Maize,16.9,159.7,23.9,2117,5,3,0,28,Medium
+349,Thresher,Karnataka,Mysuru,10,October,Kharif,Groundnut,8.1,88.2,32.3,2094,26,11,0,29,Medium
+350,Tractor,Andhra Pradesh,Guntur,8,August,Kharif,Vegetables,9.5,145.4,30.7,2145,23,5,0,29,Medium
+351,Tractor,Telangana,Warangal,10,October,Kharif,Cotton,7.8,138.5,22.5,1340,14,2,1,35,High
+352,Tractor,Karnataka,Belagavi,7,July,Kharif,Maize,25.9,105.6,27.9,1865,17,1,0,35,High
+353,Plough,Karnataka,Hassan,5,May,Summer,Wheat,18.9,23.9,31.1,894,31,16,0,24,Medium
+354,Sprayer,Tamil Nadu,Coimbatore,5,May,Summer,Sugarcane,22.7,0.0,25.6,689,30,16,0,36,High
+355,Tractor,Maharashtra,Pune,3,March,Rabi,Vegetables,23.7,0.0,28.7,1845,29,15,0,31,High
+356,Power Tiller,Maharashtra,Pune,3,March,Rabi,Sugarcane,8.1,32.9,37.2,941,41,7,1,37,High
+357,Harvester,Andhra Pradesh,Guntur,2,February,Rabi,Maize,29.0,59.1,35.9,3664,0,0,0,29,Medium
+358,Power Tiller,Karnataka,Mysuru,11,November,Rabi,Cotton,8.8,60.9,35.1,957,13,14,1,25,Medium
+359,Tractor,Karnataka,Hassan,7,July,Kharif,Sugarcane,16.9,163.3,21.9,1535,20,2,0,35,High
+360,Tractor,Karnataka,Hassan,6,June,Kharif,Sugarcane,8.5,130.9,30.2,1506,2,17,0,14,Low
+361,Power Tiller,Tamil Nadu,Erode,4,April,Summer,Cotton,19.7,63.2,29.5,1016,14,12,1,27,Medium
+362,Power Tiller,Karnataka,Mysuru,4,April,Summer,Sugarcane,19.3,0.0,26.5,1024,44,4,1,49,High
+363,Rotavator,Karnataka,Hassan,12,December,Rabi,Vegetables,6.5,2.3,25.3,1387,20,11,0,14,Low
+364,Harvester,Karnataka,Hassan,9,September,Kharif,Millets,3.9,138.9,31.5,4607,25,15,0,20,Medium
+365,Harvester,Andhra Pradesh,Guntur,1,January,Rabi,Paddy,6.0,107.7,27.5,4963,13,7,0,16,Medium
+366,Sprayer,Karnataka,Mandya,8,August,Kharif,Vegetables,6.3,149.7,22.8,594,36,2,0,30,High
+367,Tractor,Karnataka,Hassan,6,June,Kharif,Vegetables,27.6,175.9,24.5,1604,2,16,0,26,Medium
+368,Power Tiller,Karnataka,Mysuru,2,February,Rabi,Groundnut,3.8,7.6,33.5,863,13,17,0,8,Low
+369,Plough,Andhra Pradesh,Guntur,3,March,Rabi,Sugarcane,2.2,62.3,33.2,892,30,0,1,40,High
+370,Rotavator,Maharashtra,Pune,7,July,Kharif,Sugarcane,6.0,158.2,33.6,1671,6,15,0,14,Low
+371,Tractor,Karnataka,Hassan,7,July,Kharif,Cotton,17.0,106.3,29.0,1840,1,4,0,24,Medium
+372,Tractor,Tamil Nadu,Erode,7,July,Kharif,Millets,23.1,164.5,25.8,1879,23,16,0,26,Medium
+373,Tractor,Karnataka,Mysuru,2,February,Rabi,Wheat,3.8,79.3,31.2,1916,4,17,0,10,Low
+374,Sprayer,Karnataka,Hassan,8,August,Kharif,Maize,1.4,158.9,26.8,731,24,14,0,16,Medium
+375,Tractor,Andhra Pradesh,Guntur,4,April,Summer,Vegetables,20.6,39.6,29.6,1668,36,3,0,46,High
+376,Seed Drill,Karnataka,Belagavi,6,June,Kharif,Paddy,5.8,148.2,29.6,1279,10,6,0,17,Medium
+377,Seed Drill,Telangana,Warangal,8,August,Kharif,Groundnut,9.7,108.4,33.2,1299,41,5,0,33,High
+378,Seed Drill,Karnataka,Mandya,10,October,Kharif,Millets,17.0,156.2,29.9,1254,12,14,0,15,Medium
+379,Seed Drill,Karnataka,Hassan,10,October,Kharif,Wheat,3.3,115.7,25.8,1148,1,15,1,13,Low
+380,Tractor,Telangana,Warangal,5,May,Summer,Vegetables,28.6,20.9,33.2,1518,7,11,0,28,Medium
+381,Thresher,Andhra Pradesh,Guntur,7,July,Kharif,Wheat,16.5,188.7,31.3,2109,21,8,0,32,High
+382,Tractor,Karnataka,Mandya,1,January,Rabi,Wheat,19.5,32.8,30.1,1578,5,7,0,26,Medium
+383,Power Tiller,Andhra Pradesh,Guntur,8,August,Kharif,Cotton,15.1,199.9,30.3,800,22,15,0,25,Medium
+384,Plough,Tamil Nadu,Coimbatore,6,June,Kharif,Maize,8.4,171.5,23.6,851,21,10,0,18,Medium
+385,Plough,Telangana,Warangal,2,February,Rabi,Cotton,18.9,60.9,32.7,775,24,15,0,22,Medium
+386,Rotavator,Karnataka,Hassan,2,February,Rabi,Paddy,13.6,46.8,25.5,1173,9,15,0,19,Medium
+387,Seed Drill,Maharashtra,Pune,2,February,Rabi,Cotton,28.4,22.0,31.0,1106,10,8,0,25,Medium
+388,Seed Drill,Tamil Nadu,Erode,5,May,Summer,Millets,9.5,36.6,32.8,1129,16,2,0,12,Low
+389,Power Tiller,Tamil Nadu,Coimbatore,9,September,Kharif,Vegetables,18.1,138.6,27.5,954,35,9,0,29,Medium
+390,Rotavator,Karnataka,Mandya,2,February,Rabi,Sugarcane,11.3,21.0,33.2,1529,7,12,0,22,Medium
+391,Power Tiller,Karnataka,Belagavi,3,March,Rabi,Vegetables,10.1,20.8,24.9,973,26,7,0,23,Medium
+392,Thresher,Tamil Nadu,Coimbatore,2,February,Rabi,Paddy,25.8,50.5,27.8,2083,27,0,0,43,High
+393,Plough,Tamil Nadu,Coimbatore,7,July,Kharif,Paddy,26.1,168.1,29.5,976,12,10,0,28,Medium
+394,Plough,Tamil Nadu,Coimbatore,9,September,Kharif,Sugarcane,8.8,154.8,31.3,993,29,0,1,39,High
+395,Tractor,Telangana,Warangal,11,November,Rabi,Groundnut,21.1,40.8,32.3,1996,4,7,0,25,Medium
+396,Thresher,Maharashtra,Pune,7,July,Kharif,Vegetables,16.0,150.7,29.9,1702,35,11,0,33,High
+397,Tractor,Tamil Nadu,Coimbatore,7,July,Kharif,Sugarcane,7.7,93.0,27.0,1965,13,1,0,28,Medium
+398,Rotavator,Karnataka,Hassan,11,November,Rabi,Groundnut,12.7,41.2,29.6,1245,39,15,0,30,High
+399,Seed Drill,Maharashtra,Pune,6,June,Kharif,Wheat,29.6,128.2,28.4,1053,25,7,0,39,High
+400,Power Tiller,Karnataka,Hassan,4,April,Summer,Maize,6.4,42.0,24.2,1003,6,6,1,23,Medium
+401,Rotavator,Andhra Pradesh,Guntur,9,September,Kharif,Millets,21.1,129.6,30.0,1297,36,2,0,39,High
+402,Plough,Karnataka,Mandya,12,December,Rabi,Millets,1.6,46.4,33.6,827,15,0,0,21,Medium
+403,Sprayer,Andhra Pradesh,Guntur,9,September,Kharif,Paddy,9.7,112.4,24.8,633,27,9,1,38,High
+404,Harvester,Karnataka,Belagavi,6,June,Kharif,Cotton,13.5,85.0,26.5,4715,13,10,0,20,Medium
+405,Thresher,Andhra Pradesh,Guntur,5,May,Summer,Millets,21.3,83.5,31.5,2189,25,17,0,17,Medium
+406,Tractor,Tamil Nadu,Erode,11,November,Rabi,Vegetables,21.8,37.3,28.3,2003,40,7,0,42,High
+407,Power Tiller,Karnataka,Mysuru,5,May,Summer,Millets,17.4,123.5,29.1,1045,32,8,0,36,High
+408,Sprayer,Karnataka,Mandya,4,April,Summer,Millets,29.2,13.1,28.3,592,38,3,0,38,High
+409,Seed Drill,Andhra Pradesh,Guntur,10,October,Kharif,Cotton,4.2,151.6,30.2,1146,39,12,1,34,High
+410,Thresher,Telangana,Warangal,2,February,Rabi,Sugarcane,2.4,33.7,25.3,2385,28,12,0,24,Medium
+411,Power Tiller,Karnataka,Hassan,8,August,Kharif,Vegetables,9.8,142.0,30.3,1012,6,8,0,12,Low
+412,Seed Drill,Karnataka,Belagavi,3,March,Rabi,Sugarcane,29.9,82.7,22.3,1404,29,9,1,42,High
+413,Rotavator,Tamil Nadu,Coimbatore,2,February,Rabi,Paddy,15.5,56.4,21.6,1362,35,9,0,33,High
+414,Plough,Maharashtra,Pune,9,September,Kharif,Wheat,29.2,195.9,32.6,1016,25,15,1,44,High
+415,Tractor,Andhra Pradesh,Guntur,3,March,Rabi,Wheat,13.9,25.1,30.7,2111,13,7,1,37,High
+416,Tractor,Karnataka,Mysuru,4,April,Summer,Vegetables,24.0,16.5,32.0,1937,40,14,0,34,High
+417,Sprayer,Tamil Nadu,Coimbatore,2,February,Rabi,Sugarcane,24.3,0.0,29.5,582,13,4,0,34,High
+418,Thresher,Andhra Pradesh,Guntur,1,January,Rabi,Millets,28.6,24.3,31.3,2184,0,9,0,26,Medium
+419,Tractor,Telangana,Warangal,6,June,Kharif,Cotton,8.1,117.8,34.7,1883,6,7,0,12,Low
+420,Thresher,Telangana,Warangal,4,April,Summer,Cotton,21.1,70.7,31.1,2324,12,17,1,31,High
+421,Harvester,Karnataka,Hassan,3,March,Rabi,Wheat,20.4,47.3,27.5,4718,37,16,1,41,High
+422,Tractor,Andhra Pradesh,Guntur,8,August,Kharif,Millets,18.4,169.9,27.8,1544,25,14,0,22,Medium
+423,Seed Drill,Maharashtra,Pune,4,April,Summer,Groundnut,1.9,45.3,27.5,1303,12,12,0,5,Low
+424,Harvester,Karnataka,Hassan,10,October,Kharif,Wheat,25.9,175.1,24.4,4764,24,3,1,52,High
+425,Tractor,Karnataka,Mysuru,11,November,Rabi,Millets,26.5,13.7,22.3,1873,18,8,0,33,High
+426,Rotavator,Karnataka,Hassan,11,November,Rabi,Sugarcane,7.1,37.7,27.8,1451,39,6,1,37,High
+427,Rotavator,Karnataka,Hassan,9,September,Kharif,Millets,26.5,197.2,33.4,1475,35,15,0,44,High
+428,Tractor,Telangana,Warangal,1,January,Rabi,Sugarcane,15.1,83.9,32.9,2322,16,17,0,26,Medium
+429,Tractor,Karnataka,Belagavi,5,May,Summer,Wheat,3.7,52.5,27.9,1939,27,5,0,22,Medium
+430,Tractor,Karnataka,Mysuru,4,April,Summer,Sugarcane,26.6,0.0,30.6,2057,24,1,1,47,High
+431,Power Tiller,Karnataka,Hassan,8,August,Kharif,Vegetables,22.3,186.8,27.8,1242,19,10,0,25,Medium
+432,Thresher,Karnataka,Belagavi,10,October,Kharif,Groundnut,24.3,191.7,26.0,2166,25,9,0,30,High
+433,Thresher,Karnataka,Belagavi,2,February,Rabi,Vegetables,28.9,0.0,33.0,2176,35,9,0,38,High
+434,Power Tiller,Tamil Nadu,Erode,12,December,Rabi,Cotton,5.9,82.9,28.2,1171,43,14,0,29,Medium
+435,Tractor,Karnataka,Mandya,8,August,Kharif,Paddy,15.8,217.0,25.3,1800,38,15,0,35,High
+436,Tractor,Maharashtra,Pune,11,November,Rabi,Paddy,15.8,0.0,30.0,1562,16,6,1,37,High
+437,Plough,Karnataka,Hassan,4,April,Summer,Wheat,29.7,0.0,33.9,786,7,14,1,30,High
+438,Seed Drill,Karnataka,Hassan,1,January,Rabi,Maize,20.2,39.8,26.7,1048,18,12,0,21,Medium
+439,Seed Drill,Maharashtra,Pune,6,June,Kharif,Sugarcane,3.3,147.0,24.2,1009,31,8,0,24,Medium
+440,Rotavator,Karnataka,Belagavi,11,November,Rabi,Cotton,27.9,0.0,27.8,1250,27,12,1,39,High
+441,Tractor,Karnataka,Hassan,9,September,Kharif,Vegetables,17.3,145.0,27.2,1901,6,11,0,20,Medium
+442,Tractor,Karnataka,Hassan,5,May,Summer,Wheat,10.1,51.9,29.3,1898,20,11,0,21,Medium
+443,Sprayer,Telangana,Warangal,8,August,Kharif,Millets,5.0,198.5,30.7,753,25,5,0,25,Medium
+444,Rotavator,Karnataka,Mandya,5,May,Summer,Groundnut,25.4,11.9,28.2,1325,25,0,0,40,High
+445,Rotavator,Tamil Nadu,Coimbatore,5,May,Summer,Wheat,28.1,0.0,29.9,1870,14,14,0,19,Medium
+446,Rotavator,Karnataka,Mysuru,5,May,Summer,Sugarcane,20.9,15.1,26.1,1370,16,12,0,23,Medium
+447,Power Tiller,Tamil Nadu,Erode,7,July,Kharif,Paddy,15.7,105.5,29.2,785,43,1,0,44,High
+448,Rotavator,Telangana,Warangal,4,April,Summer,Maize,12.3,65.9,32.8,1474,6,7,1,28,Medium
+449,Harvester,Karnataka,Mysuru,6,June,Kharif,Vegetables,20.6,188.2,25.2,4010,1,5,0,25,Medium
+450,Power Tiller,Andhra Pradesh,Guntur,7,July,Kharif,Sugarcane,11.7,116.9,34.1,1218,26,17,0,22,Medium
+451,Plough,Karnataka,Mysuru,3,March,Rabi,Wheat,13.1,89.2,26.9,977,0,15,1,22,Medium
+452,Plough,Karnataka,Mysuru,6,June,Kharif,Vegetables,27.9,148.3,27.0,819,21,9,0,34,High
+453,Power Tiller,Telangana,Warangal,11,November,Rabi,Groundnut,12.6,31.5,31.2,1032,13,13,0,16,Medium
+454,Seed Drill,Karnataka,Mysuru,10,October,Kharif,Maize,20.4,124.4,27.8,1226,31,14,1,38,High
+455,Thresher,Tamil Nadu,Coimbatore,1,January,Rabi,Maize,12.5,23.5,27.2,2425,17,6,0,24,Medium
+456,Tractor,Maharashtra,Pune,8,August,Kharif,Vegetables,11.0,143.8,27.7,2109,11,9,0,22,Medium
+457,Plough,Karnataka,Mandya,2,February,Rabi,Groundnut,18.0,31.9,28.9,1099,23,1,0,22,Medium
+458,Power Tiller,Karnataka,Belagavi,4,April,Summer,Sugarcane,3.7,0.0,29.8,910,14,10,1,22,Medium
+459,Tractor,Maharashtra,Pune,3,March,Rabi,Groundnut,26.4,20.7,31.2,1537,4,11,0,20,Medium
+460,Tractor,Karnataka,Mysuru,12,December,Rabi,Cotton,29.7,49.6,33.0,1868,15,5,0,33,High
+461,Rotavator,Andhra Pradesh,Guntur,2,February,Rabi,Millets,3.6,49.1,26.6,1453,15,11,0,16,Medium
+462,Seed Drill,Andhra Pradesh,Guntur,12,December,Rabi,Wheat,3.2,78.3,27.7,1208,30,8,0,23,Medium
+463,Harvester,Karnataka,Mysuru,5,May,Summer,Paddy,7.8,0.0,24.8,4838,26,2,0,23,Medium
+464,Plough,Maharashtra,Pune,6,June,Kharif,Millets,13.3,172.5,32.0,735,10,0,0,20,Medium
+465,Rotavator,Tamil Nadu,Coimbatore,11,November,Rabi,Wheat,21.8,0.0,32.1,1806,8,5,1,31,High
+466,Seed Drill,Maharashtra,Pune,7,July,Kharif,Wheat,5.7,127.2,30.7,1256,8,16,0,12,Low
+467,Seed Drill,Tamil Nadu,Erode,6,June,Kharif,Groundnut,14.1,177.7,23.7,993,11,17,0,14,Low
+468,Plough,Andhra Pradesh,Guntur,3,March,Rabi,Vegetables,28.5,48.9,30.6,1029,29,16,0,31,High
+469,Power Tiller,Karnataka,Belagavi,3,March,Rabi,Wheat,4.6,41.9,30.1,1148,24,9,1,35,High
+470,Harvester,Tamil Nadu,Coimbatore,5,May,Summer,Vegetables,4.9,0.0,35.2,4464,29,4,0,24,Medium
+471,Plough,Andhra Pradesh,Guntur,1,January,Rabi,Wheat,16.9,6.0,33.9,1044,30,3,0,32,High
+472,Harvester,Karnataka,Belagavi,4,April,Summer,Vegetables,29.0,0.0,26.1,3941,9,2,0,31,High
+473,Sprayer,Karnataka,Hassan,8,August,Kharif,Vegetables,6.2,160.9,27.2,762,40,17,0,25,Medium
+474,Harvester,Karnataka,Belagavi,3,March,Rabi,Groundnut,17.6,6.8,26.1,3893,15,4,0,32,High
+475,Seed Drill,Karnataka,Hassan,2,February,Rabi,Millets,16.6,10.8,29.8,1102,41,8,0,33,High
+476,Thresher,Karnataka,Belagavi,2,February,Rabi,Wheat,7.4,66.3,28.8,2791,15,12,0,18,Medium
+477,Power Tiller,Karnataka,Hassan,6,June,Kharif,Sugarcane,9.9,162.7,28.8,1082,25,0,0,32,High
+478,Seed Drill,Karnataka,Hassan,9,September,Kharif,Maize,25.0,138.8,28.0,1228,14,4,1,35,High
+479,Rotavator,Maharashtra,Pune,5,May,Summer,Cotton,28.6,47.2,29.5,1432,21,7,0,30,High
+480,Seed Drill,Maharashtra,Pune,12,December,Rabi,Sugarcane,24.2,40.7,36.6,1197,2,7,0,24,Medium
+481,Tractor,Tamil Nadu,Coimbatore,2,February,Rabi,Paddy,25.8,1.3,27.6,1764,22,0,0,38,High
+482,Harvester,Tamil Nadu,Coimbatore,7,July,Kharif,Sugarcane,8.4,164.0,26.4,4808,3,7,0,23,Medium
+483,Power Tiller,Tamil Nadu,Coimbatore,6,June,Kharif,Paddy,27.3,187.2,26.0,924,0,11,0,27,Medium
+484,Thresher,Karnataka,Hassan,7,July,Kharif,Sugarcane,19.5,72.5,27.3,2158,17,9,0,34,High
+485,Sprayer,Telangana,Warangal,11,November,Rabi,Maize,9.6,21.2,28.5,793,44,10,1,39,High
+486,Thresher,Karnataka,Mandya,12,December,Rabi,Groundnut,4.7,6.4,22.9,2083,43,14,0,34,High
+487,Tractor,Karnataka,Mandya,11,November,Rabi,Millets,3.3,0.0,29.7,1976,22,16,0,14,Low
+488,Tractor,Karnataka,Mysuru,4,April,Summer,Millets,6.1,89.8,26.9,1967,38,1,0,35,High
+489,Sprayer,Andhra Pradesh,Guntur,1,January,Rabi,Wheat,2.8,12.5,31.6,632,8,4,0,21,Medium
+490,Tractor,Tamil Nadu,Erode,5,May,Summer,Cotton,6.4,2.4,30.2,1584,11,12,0,15,Medium
+491,Rotavator,Karnataka,Mysuru,4,April,Summer,Sugarcane,7.3,0.0,31.1,1271,6,17,1,18,Medium
+492,Plough,Andhra Pradesh,Guntur,7,July,Kharif,Paddy,22.2,157.1,27.0,932,21,6,0,45,High
+493,Sprayer,Tamil Nadu,Erode,8,August,Kharif,Millets,14.8,153.3,34.0,690,37,8,0,31,High
+494,Tractor,Tamil Nadu,Erode,11,November,Rabi,Vegetables,10.9,11.0,26.3,1878,0,15,0,14,Low
+495,Harvester,Karnataka,Mysuru,11,November,Rabi,Cotton,9.1,0.0,27.3,4664,43,9,1,37,High
+496,Seed Drill,Karnataka,Hassan,10,October,Kharif,Sugarcane,24.6,171.2,28.2,1092,31,15,1,42,High
+497,Harvester,Karnataka,Mysuru,11,November,Rabi,Millets,9.4,77.2,28.2,3734,38,2,0,35,High
+498,Thresher,Telangana,Warangal,8,August,Kharif,Wheat,27.4,124.5,36.4,2464,8,1,0,36,High
+499,Power Tiller,Karnataka,Mysuru,3,March,Rabi,Cotton,12.7,0.0,21.9,1038,36,5,1,33,High
+500,Sprayer,Karnataka,Mandya,9,September,Kharif,Millets,11.2,141.0,28.0,774,8,6,0,18,Medium
+501,Seed Drill,Tamil Nadu,Erode,1,January,Rabi,Millets,8.5,30.8,32.1,1374,35,14,0,30,High
+502,Harvester,Tamil Nadu,Erode,10,October,Kharif,Vegetables,17.0,264.5,24.4,4127,40,9,0,40,High
+503,Thresher,Andhra Pradesh,Guntur,1,January,Rabi,Wheat,4.0,59.7,27.1,2571,41,0,0,37,High
+504,Tractor,Telangana,Warangal,11,November,Rabi,Paddy,15.8,57.4,30.1,1616,24,13,1,34,High
+505,Thresher,Andhra Pradesh,Guntur,12,December,Rabi,Groundnut,25.1,13.0,34.4,2129,23,10,0,33,High
+506,Sprayer,Maharashtra,Pune,1,January,Rabi,Millets,10.1,0.0,33.4,826,34,9,0,27,Medium
+507,Sprayer,Telangana,Warangal,11,November,Rabi,Cotton,14.8,11.5,28.6,632,5,0,1,35,High
+508,Seed Drill,Karnataka,Mysuru,4,April,Summer,Wheat,18.1,38.8,33.5,1256,32,16,1,38,High
+509,Rotavator,Tamil Nadu,Coimbatore,12,December,Rabi,Maize,14.7,0.0,30.4,1322,10,9,0,26,Medium
+510,Power Tiller,Tamil Nadu,Coimbatore,2,February,Rabi,Wheat,23.0,49.5,26.7,811,24,7,0,38,High
+511,Tractor,Andhra Pradesh,Guntur,6,June,Kharif,Vegetables,24.1,208.7,29.4,1704,35,13,0,34,High
+512,Plough,Tamil Nadu,Coimbatore,6,June,Kharif,Sugarcane,26.4,159.1,34.3,936,32,13,0,37,High
+513,Sprayer,Karnataka,Hassan,8,August,Kharif,Millets,1.4,149.0,27.8,751,24,11,0,15,Medium
+514,Rotavator,Karnataka,Belagavi,3,March,Rabi,Cotton,12.0,0.0,28.3,1243,12,0,1,37,High
+515,Thresher,Telangana,Warangal,10,October,Kharif,Paddy,17.7,108.3,34.6,2469,16,5,1,36,High
+516,Tractor,Karnataka,Hassan,4,April,Summer,Maize,26.5,16.3,21.9,2042,30,6,1,42,High
+517,Tractor,Tamil Nadu,Coimbatore,4,April,Summer,Wheat,29.2,39.2,29.6,1756,37,4,1,52,High
+518,Power Tiller,Karnataka,Hassan,5,May,Summer,Paddy,24.9,54.5,26.9,946,9,17,0,22,Medium
+519,Tractor,Karnataka,Mandya,11,November,Rabi,Maize,29.8,68.9,29.3,1761,29,0,1,54,High
+520,Seed Drill,Karnataka,Mandya,8,August,Kharif,Groundnut,16.6,212.0,30.6,882,20,8,0,28,Medium
+521,Rotavator,Maharashtra,Pune,11,November,Rabi,Sugarcane,9.1,51.6,27.9,1521,38,13,1,37,High
+522,Thresher,Karnataka,Mandya,7,July,Kharif,Millets,4.1,156.4,31.8,1916,1,8,0,9,Low
+523,Tractor,Andhra Pradesh,Guntur,2,February,Rabi,Groundnut,18.9,0.0,29.9,1699,20,14,0,30,High
+524,Sprayer,Karnataka,Mandya,5,May,Summer,Maize,18.1,33.6,27.8,557,26,2,0,30,High
+525,Rotavator,Karnataka,Belagavi,8,August,Kharif,Cotton,8.1,193.3,28.9,1461,34,16,0,29,Medium
+526,Seed Drill,Karnataka,Mysuru,11,November,Rabi,Groundnut,20.8,0.0,30.2,1224,28,5,0,32,High
+527,Seed Drill,Tamil Nadu,Coimbatore,11,November,Rabi,Paddy,20.3,48.2,33.7,1322,4,3,1,37,High
+528,Seed Drill,Karnataka,Mandya,1,January,Rabi,Maize,9.0,0.0,27.9,1053,20,5,0,19,Medium
+529,Tractor,Andhra Pradesh,Guntur,6,June,Kharif,Sugarcane,8.3,123.1,29.3,1509,30,7,0,32,High
+530,Plough,Telangana,Warangal,1,January,Rabi,Wheat,9.0,14.8,30.6,941,44,13,0,34,High
+531,Power Tiller,Tamil Nadu,Coimbatore,8,August,Kharif,Cotton,26.4,139.0,35.3,901,13,15,0,23,Medium
+532,Tractor,Maharashtra,Pune,3,March,Rabi,Sugarcane,3.2,52.9,30.8,1688,33,17,1,32,High
+533,Seed Drill,Andhra Pradesh,Guntur,7,July,Kharif,Sugarcane,19.7,152.1,28.1,1443,41,17,0,36,High
+534,Tractor,Karnataka,Mandya,9,September,Kharif,Millets,13.6,124.3,25.1,1869,20,11,0,23,Medium
+535,Power Tiller,Telangana,Warangal,8,August,Kharif,Maize,10.3,188.0,26.1,1095,31,1,0,38,High
+536,Rotavator,Karnataka,Mysuru,12,December,Rabi,Groundnut,14.5,56.2,27.2,1371,21,9,0,22,Medium
+537,Tractor,Tamil Nadu,Coimbatore,8,August,Kharif,Groundnut,19.5,139.9,22.8,1571,42,8,0,38,High
+538,Rotavator,Karnataka,Mandya,3,March,Rabi,Sugarcane,10.5,26.7,28.6,1281,38,6,1,46,High
+539,Rotavator,Karnataka,Mandya,3,March,Rabi,Cotton,1.0,47.8,25.3,1450,9,10,1,23,Medium
+540,Tractor,Andhra Pradesh,Guntur,12,December,Rabi,Maize,14.4,1.2,31.7,1804,30,2,0,31,High
+541,Thresher,Maharashtra,Pune,10,October,Kharif,Paddy,17.7,126.3,27.9,2294,4,7,1,38,High
+542,Power Tiller,Karnataka,Mysuru,6,June,Kharif,Sugarcane,24.5,106.0,29.9,911,44,0,0,46,High
+543,Tractor,Tamil Nadu,Erode,1,January,Rabi,Paddy,4.8,57.5,29.3,1777,5,6,0,18,Medium
+544,Harvester,Karnataka,Belagavi,9,September,Kharif,Vegetables,22.1,118.6,20.7,4242,35,15,0,33,High
+545,Harvester,Andhra Pradesh,Guntur,5,May,Summer,Wheat,16.2,41.4,31.5,5310,21,13,0,23,Medium
+546,Rotavator,Maharashtra,Pune,5,May,Summer,Paddy,13.4,14.8,32.3,1545,19,16,0,20,Medium
+547,Rotavator,Karnataka,Mandya,1,January,Rabi,Sugarcane,15.7,33.1,29.7,1380,26,13,0,24,Medium
+548,Tractor,Andhra Pradesh,Guntur,4,April,Summer,Maize,24.3,28.4,36.0,1708,7,5,1,32,High
+549,Rotavator,Karnataka,Belagavi,2,February,Rabi,Millets,22.6,55.7,24.7,1392,40,5,0,43,High
+550,Rotavator,Tamil Nadu,Coimbatore,8,August,Kharif,Vegetables,9.3,177.5,25.9,1226,26,11,0,19,Medium
+551,Tractor,Karnataka,Mysuru,12,December,Rabi,Wheat,11.6,0.0,24.9,1698,23,8,0,32,High
+552,Tractor,Telangana,Warangal,5,May,Summer,Millets,15.5,23.5,27.5,1787,7,7,0,19,Medium
+553,Seed Drill,Tamil Nadu,Erode,7,July,Kharif,Groundnut,21.6,134.3,28.4,1187,9,0,0,30,High
+554,Tractor,Tamil Nadu,Coimbatore,6,June,Kharif,Sugarcane,3.4,137.4,29.7,1649,29,17,0,25,Medium
+555,Plough,Tamil Nadu,Erode,3,March,Rabi,Millets,10.2,0.0,26.7,960,39,14,0,27,Medium
+556,Plough,Tamil Nadu,Coimbatore,1,January,Rabi,Maize,6.3,2.1,24.7,1074,25,13,0,16,Medium
+557,Tractor,Karnataka,Mandya,2,February,Rabi,Maize,24.6,0.0,27.4,1671,20,8,0,32,High
+558,Seed Drill,Karnataka,Mandya,6,June,Kharif,Groundnut,15.7,162.6,30.1,1186,9,4,0,24,Medium
+559,Seed Drill,Tamil Nadu,Coimbatore,12,December,Rabi,Maize,9.0,60.4,29.7,1260,32,5,0,25,Medium
+560,Harvester,Maharashtra,Pune,5,May,Summer,Vegetables,27.4,63.8,27.4,4184,27,13,0,35,High
+561,Tractor,Maharashtra,Pune,9,September,Kharif,Sugarcane,4.6,118.3,29.8,1722,0,11,1,26,Medium
+562,Harvester,Karnataka,Mysuru,4,April,Summer,Maize,5.0,13.6,27.5,4342,1,3,1,15,Medium
+563,Tractor,Maharashtra,Pune,1,January,Rabi,Vegetables,28.5,63.5,29.9,1741,3,9,0,25,Medium
+564,Thresher,Karnataka,Hassan,4,April,Summer,Maize,23.5,51.4,24.3,1922,17,4,1,41,High
+565,Harvester,Tamil Nadu,Erode,12,December,Rabi,Cotton,21.2,13.7,28.5,4961,11,14,0,20,Medium
+566,Harvester,Maharashtra,Pune,3,March,Rabi,Maize,5.3,91.2,33.6,4698,31,15,1,35,High
+567,Sprayer,Karnataka,Mysuru,10,October,Kharif,Vegetables,30.0,214.4,27.0,754,17,9,0,35,High
+568,Seed Drill,Karnataka,Mysuru,4,April,Summer,Wheat,15.7,26.1,27.0,1376,28,5,1,40,High
+569,Sprayer,Maharashtra,Pune,11,November,Rabi,Millets,26.5,104.3,31.7,555,25,14,0,33,High
+570,Harvester,Telangana,Warangal,2,February,Rabi,Millets,10.4,47.3,32.5,4258,4,7,0,18,Medium
+571,Thresher,Karnataka,Hassan,9,September,Kharif,Groundnut,10.9,103.5,33.9,2040,21,6,0,25,Medium
+572,Power Tiller,Tamil Nadu,Erode,4,April,Summer,Vegetables,8.3,23.6,28.5,717,39,13,0,24,Medium
+573,Thresher,Karnataka,Mandya,7,July,Kharif,Sugarcane,18.3,201.4,26.2,2400,2,0,0,26,Medium
+574,Power Tiller,Tamil Nadu,Erode,8,August,Kharif,Groundnut,7.6,104.0,22.2,869,28,4,0,21,Medium
+575,Rotavator,Maharashtra,Pune,6,June,Kharif,Paddy,21.7,164.1,30.6,1231,16,10,0,26,Medium
+576,Tractor,Karnataka,Mysuru,3,March,Rabi,Maize,10.2,57.1,25.8,1805,36,1,1,42,High
+577,Power Tiller,Maharashtra,Pune,9,September,Kharif,Sugarcane,14.5,98.7,28.1,936,18,1,1,34,High
+578,Rotavator,Maharashtra,Pune,11,November,Rabi,Wheat,9.9,4.5,30.3,1248,9,16,1,32,High
+579,Thresher,Karnataka,Mysuru,6,June,Kharif,Maize,11.3,108.0,24.9,2082,31,17,0,26,Medium
+580,Power Tiller,Karnataka,Belagavi,6,June,Kharif,Wheat,20.2,159.5,26.1,966,29,7,0,34,High
+581,Sprayer,Tamil Nadu,Erode,9,September,Kharif,Vegetables,7.8,169.6,23.6,607,18,13,0,16,Medium
+582,Seed Drill,Maharashtra,Pune,3,March,Rabi,Sugarcane,18.4,45.8,28.7,900,24,15,1,36,High
+583,Power Tiller,Tamil Nadu,Erode,4,April,Summer,Vegetables,10.3,0.0,26.5,988,19,15,0,17,Medium
+584,Seed Drill,Karnataka,Hassan,11,November,Rabi,Cotton,6.7,38.6,22.8,1192,42,13,1,39,High
+585,Rotavator,Karnataka,Mandya,3,March,Rabi,Cotton,8.1,0.0,31.4,1600,17,17,1,29,Medium
+586,Rotavator,Telangana,Warangal,2,February,Rabi,Sugarcane,17.2,95.6,31.6,1335,2,9,0,22,Medium
+587,Tractor,Tamil Nadu,Erode,12,December,Rabi,Cotton,5.7,16.7,27.2,1636,7,5,0,23,Medium
+588,Rotavator,Karnataka,Belagavi,7,July,Kharif,Maize,15.6,179.5,31.4,1260,42,9,0,30,High
+589,Seed Drill,Karnataka,Hassan,8,August,Kharif,Sugarcane,11.1,171.3,25.3,1104,6,7,0,22,Medium
+590,Plough,Karnataka,Mysuru,6,June,Kharif,Sugarcane,23.7,135.7,24.7,864,36,7,0,39,High
+591,Rotavator,Karnataka,Belagavi,11,November,Rabi,Paddy,17.1,13.3,28.4,1494,44,17,1,39,High
+592,Rotavator,Andhra Pradesh,Guntur,11,November,Rabi,Paddy,18.8,101.5,25.7,1470,37,5,1,49,High
+593,Tractor,Maharashtra,Pune,9,September,Kharif,Sugarcane,22.8,130.3,28.0,1892,27,3,1,46,High
+594,Tractor,Karnataka,Belagavi,8,August,Kharif,Cotton,19.1,141.0,27.1,1649,35,9,0,36,High
+595,Tractor,Karnataka,Belagavi,8,August,Kharif,Vegetables,29.3,160.6,30.3,1525,41,5,0,52,High
+596,Tractor,Karnataka,Hassan,6,June,Kharif,Paddy,7.6,132.1,24.4,1990,25,5,0,32,High
+597,Thresher,Karnataka,Hassan,4,April,Summer,Paddy,15.0,20.8,27.5,2417,40,2,1,50,High
+598,Tractor,Karnataka,Mysuru,2,February,Rabi,Paddy,1.1,70.5,23.6,1954,3,5,0,9,Low
+599,Tractor,Telangana,Warangal,6,June,Kharif,Vegetables,19.8,86.7,23.6,2096,18,4,0,26,Medium
+600,Sprayer,Maharashtra,Pune,2,February,Rabi,Groundnut,25.3,49.7,30.4,791,11,3,0,29,Medium
+601,Seed Drill,Tamil Nadu,Coimbatore,1,January,Rabi,Sugarcane,12.2,36.2,24.9,1315,29,2,0,31,High
+602,Seed Drill,Tamil Nadu,Coimbatore,11,November,Rabi,Millets,17.6,66.2,26.0,1375,7,12,0,18,Medium
+603,Harvester,Telangana,Warangal,2,February,Rabi,Maize,22.8,49.5,30.2,4957,15,15,0,21,Medium
+604,Tractor,Tamil Nadu,Erode,3,March,Rabi,Paddy,2.5,59.9,31.9,1589,40,8,1,34,High
+605,Plough,Telangana,Warangal,2,February,Rabi,Maize,14.0,35.0,31.5,872,18,1,0,35,High
+606,Seed Drill,Maharashtra,Pune,2,February,Rabi,Paddy,4.0,91.2,33.1,1180,2,0,0,15,Medium
+607,Sprayer,Karnataka,Hassan,2,February,Rabi,Paddy,12.8,28.4,27.3,700,41,13,0,37,High
+608,Harvester,Tamil Nadu,Erode,3,March,Rabi,Cotton,5.0,10.2,30.0,4592,44,8,1,39,High
+609,Tractor,Tamil Nadu,Coimbatore,1,January,Rabi,Cotton,24.8,83.1,28.8,1817,4,0,0,29,Medium
+610,Thresher,Telangana,Warangal,10,October,Kharif,Cotton,13.3,138.7,31.2,2321,14,10,1,33,High
+611,Rotavator,Maharashtra,Pune,11,November,Rabi,Maize,10.5,0.0,30.3,1666,2,8,1,23,Medium
+612,Thresher,Maharashtra,Pune,12,December,Rabi,Vegetables,12.1,36.6,34.1,2374,33,3,0,30,High
+613,Rotavator,Telangana,Warangal,10,October,Kharif,Millets,12.0,98.2,34.8,1429,44,10,0,31,High
+614,Power Tiller,Andhra Pradesh,Guntur,7,July,Kharif,Maize,14.0,228.1,32.2,988,44,10,0,32,High
+615,Rotavator,Karnataka,Hassan,8,August,Kharif,Vegetables,17.1,89.1,26.0,1287,4,2,0,23,Medium
+616,Plough,Tamil Nadu,Erode,1,January,Rabi,Maize,6.3,43.0,29.8,899,12,11,0,11,Low
+617,Tractor,Karnataka,Belagavi,2,February,Rabi,Paddy,12.8,84.4,30.8,1815,41,15,0,30,High
+618,Tractor,Tamil Nadu,Coimbatore,11,November,Rabi,Wheat,18.5,2.2,24.4,1443,26,13,1,33,High
+619,Tractor,Karnataka,Hassan,4,April,Summer,Sugarcane,23.5,50.9,26.4,1705,16,4,1,37,High
+620,Tractor,Tamil Nadu,Erode,4,April,Summer,Vegetables,17.9,46.1,30.8,1372,33,13,0,30,High
+621,Plough,Karnataka,Mandya,10,October,Kharif,Sugarcane,20.1,162.9,27.1,993,33,11,1,41,High
+622,Rotavator,Karnataka,Hassan,8,August,Kharif,Vegetables,19.7,119.1,29.0,1276,21,15,0,28,Medium
+623,Sprayer,Karnataka,Belagavi,3,March,Rabi,Paddy,10.2,39.9,37.7,788,37,1,1,40,High
+624,Rotavator,Andhra Pradesh,Guntur,8,August,Kharif,Groundnut,7.3,201.7,32.4,1189,40,14,0,24,Medium
+625,Sprayer,Karnataka,Hassan,4,April,Summer,Groundnut,6.5,42.4,29.6,617,3,7,0,6,Low
+626,Harvester,Karnataka,Mandya,5,May,Summer,Sugarcane,12.9,55.5,31.3,4165,4,0,0,21,Medium
+627,Harvester,Karnataka,Mandya,4,April,Summer,Groundnut,17.0,94.1,23.4,4706,6,13,0,21,Medium
+628,Rotavator,Karnataka,Mysuru,3,March,Rabi,Vegetables,10.6,8.2,30.8,1697,15,0,0,21,Medium
+629,Rotavator,Karnataka,Mandya,6,June,Kharif,Millets,15.2,124.1,27.9,1504,17,2,0,25,Medium
+630,Thresher,Tamil Nadu,Erode,8,August,Kharif,Millets,18.4,202.9,33.4,2235,14,7,0,32,High
+631,Thresher,Karnataka,Mysuru,4,April,Summer,Sugarcane,28.4,18.8,27.9,2483,9,2,1,45,High
+632,Plough,Tamil Nadu,Coimbatore,10,October,Kharif,Maize,25.0,96.6,26.0,809,2,0,1,42,High
+633,Tractor,Andhra Pradesh,Guntur,7,July,Kharif,Millets,16.4,163.6,31.2,1865,41,2,0,44,High
+634,Tractor,Karnataka,Mysuru,1,January,Rabi,Paddy,22.5,46.0,31.4,1840,20,2,0,36,High
+635,Power Tiller,Karnataka,Mysuru,9,September,Kharif,Groundnut,28.4,200.2,29.5,996,2,16,0,23,Medium
+636,Power Tiller,Tamil Nadu,Erode,3,March,Rabi,Millets,1.8,34.8,30.6,767,1,15,0,4,Low
+637,Tractor,Maharashtra,Pune,10,October,Kharif,Groundnut,22.6,138.7,30.9,2230,18,15,0,32,High
+638,Rotavator,Telangana,Warangal,4,April,Summer,Millets,9.9,35.7,29.8,1295,28,9,0,26,Medium
+639,Thresher,Tamil Nadu,Erode,6,June,Kharif,Cotton,5.9,141.2,31.0,2523,16,8,0,17,Medium
+640,Harvester,Andhra Pradesh,Guntur,2,February,Rabi,Maize,4.2,0.0,29.2,3997,19,2,0,29,Medium
+641,Rotavator,Karnataka,Belagavi,8,August,Kharif,Wheat,20.5,160.1,29.9,1473,19,2,0,36,High
+642,Thresher,Andhra Pradesh,Guntur,3,March,Rabi,Maize,25.4,24.1,32.2,1850,16,13,1,37,High
+643,Rotavator,Tamil Nadu,Erode,3,March,Rabi,Groundnut,28.9,52.7,30.3,1616,0,0,0,32,High
+644,Plough,Andhra Pradesh,Guntur,7,July,Kharif,Cotton,20.5,183.5,29.2,769,14,6,0,24,Medium
+645,Thresher,Tamil Nadu,Erode,3,March,Rabi,Vegetables,10.7,11.0,28.3,2465,13,4,0,17,Medium
+646,Tractor,Telangana,Warangal,5,May,Summer,Millets,8.2,0.0,28.0,1672,25,15,0,19,Medium
+647,Seed Drill,Karnataka,Mysuru,10,October,Kharif,Maize,10.5,148.1,31.5,1098,38,4,1,42,High
+648,Sprayer,Tamil Nadu,Coimbatore,11,November,Rabi,Sugarcane,10.4,4.5,33.3,613,9,10,1,29,Medium
+649,Power Tiller,Tamil Nadu,Coimbatore,7,July,Kharif,Sugarcane,23.9,169.5,27.5,872,19,4,0,32,High
+650,Harvester,Karnataka,Mandya,8,August,Kharif,Cotton,14.8,163.0,30.8,4339,20,16,0,25,Medium
+651,Tractor,Tamil Nadu,Erode,6,June,Kharif,Sugarcane,13.4,172.2,30.7,1587,26,14,0,26,Medium
+652,Power Tiller,Maharashtra,Pune,4,April,Summer,Wheat,13.8,52.9,35.7,915,28,7,1,34,High
+653,Power Tiller,Tamil Nadu,Erode,7,July,Kharif,Millets,18.6,177.4,29.1,927,0,11,0,21,Medium
+654,Tractor,Telangana,Warangal,4,April,Summer,Sugarcane,3.1,0.0,27.8,1816,4,12,1,17,Medium
+655,Harvester,Tamil Nadu,Erode,3,March,Rabi,Paddy,23.7,35.4,23.4,4165,35,17,1,42,High
+656,Thresher,Karnataka,Mandya,6,June,Kharif,Sugarcane,18.1,115.4,30.0,2369,31,16,0,33,High
+657,Sprayer,Karnataka,Mandya,2,February,Rabi,Groundnut,1.4,27.0,27.9,639,18,17,0,11,Low
+658,Thresher,Karnataka,Belagavi,9,September,Kharif,Groundnut,25.1,118.7,21.4,2349,28,9,0,35,High
+659,Tractor,Telangana,Warangal,8,August,Kharif,Millets,22.9,208.5,35.1,2013,26,15,0,27,Medium
+660,Harvester,Maharashtra,Pune,3,March,Rabi,Paddy,3.0,12.9,29.5,4588,11,9,1,28,Medium
+661,Thresher,Tamil Nadu,Coimbatore,3,March,Rabi,Wheat,9.4,122.1,29.3,1850,33,10,1,41,High
+662,Tractor,Maharashtra,Pune,1,January,Rabi,Paddy,23.0,41.9,32.6,1725,20,15,0,31,High
+663,Sprayer,Tamil Nadu,Erode,8,August,Kharif,Millets,29.5,120.4,31.1,732,24,9,0,40,High
+664,Tractor,Telangana,Warangal,10,October,Kharif,Paddy,23.1,130.2,32.3,1759,44,14,1,49,High
+665,Rotavator,Tamil Nadu,Erode,10,October,Kharif,Sugarcane,9.7,161.2,27.4,1279,40,13,1,39,High
+666,Plough,Telangana,Warangal,11,November,Rabi,Cotton,20.4,48.2,29.7,763,1,11,1,27,Medium
+667,Power Tiller,Telangana,Warangal,4,April,Summer,Cotton,6.3,1.1,34.4,1092,3,4,1,21,Medium
+668,Sprayer,Karnataka,Hassan,1,January,Rabi,Vegetables,3.5,123.7,28.6,755,19,4,0,19,Medium
+669,Plough,Karnataka,Mysuru,9,September,Kharif,Maize,28.0,87.8,30.0,1107,33,15,1,47,High
+670,Sprayer,Maharashtra,Pune,8,August,Kharif,Vegetables,26.4,67.8,31.3,796,16,0,0,35,High
+671,Sprayer,Tamil Nadu,Coimbatore,9,September,Kharif,Vegetables,29.9,189.5,22.0,572,3,9,0,21,Medium
+672,Thresher,Telangana,Warangal,3,March,Rabi,Vegetables,24.5,62.2,31.8,2055,15,2,0,26,Medium
+673,Power Tiller,Andhra Pradesh,Guntur,11,November,Rabi,Groundnut,27.3,43.5,29.2,1034,23,14,0,29,Medium
+674,Seed Drill,Tamil Nadu,Erode,8,August,Kharif,Cotton,22.1,168.3,26.3,1255,15,13,0,24,Medium
+675,Power Tiller,Karnataka,Mysuru,10,October,Kharif,Cotton,16.2,158.1,30.5,936,32,6,1,41,High
+676,Sprayer,Karnataka,Hassan,5,May,Summer,Vegetables,21.9,78.6,32.1,750,21,12,0,31,High
+677,Sprayer,Tamil Nadu,Coimbatore,5,May,Summer,Sugarcane,9.7,102.0,28.7,666,30,4,0,22,Medium
+678,Seed Drill,Maharashtra,Pune,2,February,Rabi,Sugarcane,6.8,35.7,27.0,1232,28,10,0,26,Medium
+679,Plough,Telangana,Warangal,2,February,Rabi,Millets,3.9,48.4,37.7,737,9,1,0,18,Medium
+680,Tractor,Tamil Nadu,Erode,1,January,Rabi,Vegetables,17.9,40.3,30.4,1803,21,10,0,27,Medium
+681,Sprayer,Tamil Nadu,Erode,4,April,Summer,Millets,10.6,0.0,21.5,702,30,3,0,26,Medium
+682,Rotavator,Tamil Nadu,Erode,3,March,Rabi,Paddy,5.5,58.1,22.7,1590,19,3,1,37,High
+683,Rotavator,Karnataka,Hassan,12,December,Rabi,Wheat,23.8,0.0,23.5,1276,10,6,0,30,High
+684,Thresher,Telangana,Warangal,4,April,Summer,Paddy,29.0,0.0,30.7,1976,23,0,1,49,High
+685,Thresher,Karnataka,Mandya,4,April,Summer,Sugarcane,2.8,92.5,27.0,2234,23,14,1,32,High
+686,Thresher,Tamil Nadu,Erode,10,October,Kharif,Groundnut,19.1,170.5,27.8,2493,25,1,0,36,High
+687,Rotavator,Karnataka,Hassan,7,July,Kharif,Cotton,24.1,140.3,23.4,1201,26,9,0,33,High
+688,Sprayer,Maharashtra,Pune,6,June,Kharif,Maize,17.3,124.5,34.1,794,28,15,0,24,Medium
+689,Rotavator,Telangana,Warangal,2,February,Rabi,Vegetables,8.2,26.3,30.6,1269,13,10,0,16,Medium
+690,Thresher,Karnataka,Hassan,5,May,Summer,Groundnut,18.2,14.1,26.9,1946,21,4,0,26,Medium
+691,Rotavator,Andhra Pradesh,Guntur,7,July,Kharif,Vegetables,11.1,180.9,32.3,1330,29,9,0,27,Medium
+692,Seed Drill,Karnataka,Mysuru,6,June,Kharif,Paddy,20.4,103.5,28.4,1170,44,8,0,42,High
+693,Rotavator,Andhra Pradesh,Guntur,12,December,Rabi,Paddy,9.3,0.0,30.6,1433,34,6,0,30,High
+694,Plough,Karnataka,Mandya,1,January,Rabi,Millets,7.4,33.8,23.7,837,0,11,0,10,Low
+695,Thresher,Tamil Nadu,Coimbatore,2,February,Rabi,Cotton,20.3,85.6,29.7,2190,15,9,0,30,High
+696,Tractor,Tamil Nadu,Coimbatore,12,December,Rabi,Groundnut,28.9,25.4,30.3,1795,34,10,0,43,High
+697,Thresher,Maharashtra,Pune,1,January,Rabi,Cotton,4.4,18.6,31.4,2039,20,2,0,22,Medium
+698,Thresher,Karnataka,Belagavi,6,June,Kharif,Vegetables,25.9,156.2,35.3,2246,7,11,0,21,Medium
+699,Tractor,Karnataka,Mysuru,9,September,Kharif,Sugarcane,22.6,190.5,31.4,1721,37,13,1,47,High
+700,Thresher,Karnataka,Mysuru,2,February,Rabi,Vegetables,5.4,104.1,30.7,2138,19,6,0,28,Medium
+701,Tractor,Karnataka,Mandya,4,April,Summer,Millets,26.4,17.4,29.7,2161,44,14,0,37,High
+702,Tractor,Andhra Pradesh,Guntur,6,June,Kharif,Vegetables,29.9,130.6,29.5,1829,25,1,0,40,High
+703,Harvester,Tamil Nadu,Coimbatore,6,June,Kharif,Wheat,25.6,206.9,28.6,4810,24,16,0,35,High
+704,Sprayer,Karnataka,Mysuru,2,February,Rabi,Millets,19.4,50.8,27.1,679,37,5,0,45,High
+705,Rotavator,Tamil Nadu,Coimbatore,4,April,Summer,Paddy,5.0,56.4,29.8,1428,12,0,1,27,Medium
+706,Seed Drill,Andhra Pradesh,Guntur,3,March,Rabi,Groundnut,11.4,0.0,26.6,1310,7,0,0,23,Medium
+707,Tractor,Karnataka,Mysuru,8,August,Kharif,Groundnut,15.3,192.9,22.5,1982,36,12,0,36,High
+708,Power Tiller,Karnataka,Mandya,1,January,Rabi,Cotton,29.2,0.0,29.3,975,17,2,0,31,High
+709,Thresher,Karnataka,Mandya,9,September,Kharif,Maize,13.5,100.9,32.8,2182,37,0,1,50,High
+710,Tractor,Tamil Nadu,Coimbatore,5,May,Summer,Sugarcane,8.6,78.4,29.3,1838,21,6,0,24,Medium
+711,Tractor,Maharashtra,Pune,7,July,Kharif,Wheat,11.6,130.6,25.8,1637,2,4,0,21,Medium
+712,Seed Drill,Karnataka,Mysuru,4,April,Summer,Paddy,9.3,19.4,26.6,1226,12,5,1,21,Medium
+713,Tractor,Telangana,Warangal,4,April,Summer,Vegetables,13.9,0.0,30.7,2148,8,8,0,12,Low
+714,Power Tiller,Karnataka,Belagavi,8,August,Kharif,Vegetables,10.5,171.2,19.0,1065,13,12,0,13,Low
+715,Harvester,Karnataka,Hassan,12,December,Rabi,Wheat,14.1,61.7,28.1,4031,4,2,0,29,Medium
+716,Rotavator,Karnataka,Mandya,9,September,Kharif,Cotton,26.9,146.6,22.9,1375,0,12,1,27,Medium
+717,Harvester,Karnataka,Belagavi,5,May,Summer,Vegetables,13.3,0.0,29.0,5374,19,17,0,19,Medium
+718,Tractor,Telangana,Warangal,5,May,Summer,Cotton,24.5,44.0,27.6,1963,0,12,0,18,Medium
+719,Power Tiller,Tamil Nadu,Erode,9,September,Kharif,Paddy,4.9,180.7,26.4,1099,37,1,1,40,High
+720,Tractor,Telangana,Warangal,5,May,Summer,Sugarcane,29.7,21.6,31.9,1684,37,12,0,38,High
+721,Tractor,Karnataka,Hassan,1,January,Rabi,Wheat,1.9,52.5,32.9,1876,38,11,0,29,Medium
+722,Tractor,Tamil Nadu,Coimbatore,7,July,Kharif,Sugarcane,13.9,103.4,30.4,1862,25,9,0,20,Medium
+723,Rotavator,Tamil Nadu,Coimbatore,11,November,Rabi,Wheat,13.6,6.6,21.4,1460,20,14,1,28,Medium
+724,Tractor,Tamil Nadu,Erode,3,March,Rabi,Sugarcane,20.4,98.4,25.9,1847,1,3,1,34,High
+725,Tractor,Maharashtra,Pune,3,March,Rabi,Cotton,28.2,5.5,33.0,1790,4,3,1,35,High
+726,Harvester,Karnataka,Hassan,10,October,Kharif,Maize,27.5,156.1,27.2,5820,42,8,1,50,High
+727,Tractor,Maharashtra,Pune,2,February,Rabi,Groundnut,21.4,50.4,34.4,1516,2,2,0,24,Medium
+728,Tractor,Maharashtra,Pune,10,October,Kharif,Sugarcane,7.4,183.1,29.2,1738,17,13,1,33,High
+729,Sprayer,Tamil Nadu,Erode,8,August,Kharif,Sugarcane,23.3,145.0,28.5,774,2,17,0,22,Medium
+730,Seed Drill,Karnataka,Mandya,11,November,Rabi,Millets,10.7,30.2,32.3,1441,38,16,0,32,High
+731,Sprayer,Karnataka,Mandya,8,August,Kharif,Maize,19.7,126.3,21.8,808,36,16,0,29,Medium
+732,Tractor,Karnataka,Belagavi,6,June,Kharif,Groundnut,3.6,142.8,33.3,2252,1,12,0,9,Low
+733,Plough,Maharashtra,Pune,4,April,Summer,Millets,21.1,27.5,28.6,1074,6,15,0,17,Medium
+734,Rotavator,Karnataka,Hassan,6,June,Kharif,Sugarcane,26.1,196.4,22.5,1347,38,15,0,45,High
+735,Rotavator,Karnataka,Belagavi,4,April,Summer,Sugarcane,28.8,26.2,20.2,1217,19,15,1,40,High
+736,Rotavator,Tamil Nadu,Coimbatore,5,May,Summer,Wheat,21.7,0.0,28.7,1411,15,8,0,25,Medium
+737,Plough,Tamil Nadu,Erode,11,November,Rabi,Sugarcane,15.4,53.6,27.3,850,32,1,1,47,High
+738,Rotavator,Maharashtra,Pune,10,October,Kharif,Sugarcane,10.5,123.8,30.4,1650,25,6,1,38,High
+739,Tractor,Tamil Nadu,Coimbatore,12,December,Rabi,Millets,11.4,7.9,31.1,1665,39,2,0,34,High
+740,Tractor,Karnataka,Hassan,9,September,Kharif,Millets,21.4,157.3,30.3,1737,30,15,0,29,Medium
+741,Sprayer,Tamil Nadu,Coimbatore,10,October,Kharif,Wheat,20.1,150.7,30.3,702,39,9,1,47,High
+742,Plough,Karnataka,Belagavi,4,April,Summer,Wheat,5.0,25.4,30.6,889,16,10,1,24,Medium
+743,Tractor,Maharashtra,Pune,6,June,Kharif,Paddy,24.6,131.4,33.4,1792,25,1,0,44,High
+744,Sprayer,Tamil Nadu,Erode,7,July,Kharif,Millets,7.1,132.7,33.4,720,17,13,0,20,Medium
+745,Seed Drill,Telangana,Warangal,6,June,Kharif,Millets,14.0,109.4,30.0,1039,7,2,0,21,Medium
+746,Power Tiller,Karnataka,Belagavi,5,May,Summer,Vegetables,3.3,26.8,24.6,1051,5,8,0,9,Low
+747,Harvester,Karnataka,Belagavi,12,December,Rabi,Maize,27.6,143.6,27.6,4435,4,15,0,30,High
+748,Power Tiller,Andhra Pradesh,Guntur,4,April,Summer,Sugarcane,27.4,115.0,31.9,861,0,2,1,32,High
+749,Power Tiller,Tamil Nadu,Coimbatore,7,July,Kharif,Maize,9.6,130.9,32.5,1012,34,4,0,27,Medium
+750,Seed Drill,Karnataka,Mysuru,9,September,Kharif,Groundnut,15.8,184.3,26.3,1426,14,12,0,21,Medium
+751,Thresher,Tamil Nadu,Erode,1,January,Rabi,Maize,22.3,108.4,22.7,2108,11,1,0,25,Medium
+752,Seed Drill,Tamil Nadu,Erode,8,August,Kharif,Paddy,2.3,160.4,29.7,1453,19,6,0,21,Medium
+753,Thresher,Tamil Nadu,Coimbatore,2,February,Rabi,Vegetables,29.2,26.2,28.3,2067,33,8,0,48,High
+754,Rotavator,Tamil Nadu,Erode,1,January,Rabi,Groundnut,25.6,43.4,32.3,1427,29,7,0,29,Medium
+755,Power Tiller,Karnataka,Belagavi,3,March,Rabi,Groundnut,10.5,78.9,28.1,970,41,3,0,36,High
+756,Tractor,Andhra Pradesh,Guntur,1,January,Rabi,Cotton,17.7,47.4,29.3,1938,9,13,0,21,Medium
+757,Sprayer,Tamil Nadu,Coimbatore,1,January,Rabi,Millets,7.1,28.4,30.4,761,29,6,0,22,Medium
+758,Rotavator,Karnataka,Mandya,1,January,Rabi,Millets,9.8,25.9,28.1,1312,13,4,0,27,Medium
+759,Tractor,Andhra Pradesh,Guntur,4,April,Summer,Cotton,6.0,99.2,28.6,1827,20,16,1,24,Medium
+760,Rotavator,Karnataka,Mandya,9,September,Kharif,Millets,16.0,148.0,26.8,1249,2,10,0,14,Low
+761,Thresher,Karnataka,Hassan,12,December,Rabi,Maize,25.4,16.2,29.3,2181,10,7,0,29,Medium
+762,Thresher,Tamil Nadu,Erode,11,November,Rabi,Wheat,14.1,75.9,24.2,1928,26,7,1,44,High
+763,Seed Drill,Tamil Nadu,Erode,9,September,Kharif,Cotton,27.1,179.3,26.7,1164,27,4,1,45,High
+764,Power Tiller,Karnataka,Mandya,8,August,Kharif,Sugarcane,23.0,114.9,27.1,808,42,10,0,45,High
+765,Seed Drill,Karnataka,Mandya,3,March,Rabi,Groundnut,1.1,57.4,20.0,1229,11,12,0,16,Medium
+766,Harvester,Karnataka,Hassan,4,April,Summer,Vegetables,30.0,0.0,31.7,4358,18,1,0,36,High
+767,Tractor,Karnataka,Mysuru,7,July,Kharif,Millets,5.6,181.5,31.3,1969,12,1,0,25,Medium
+768,Tractor,Tamil Nadu,Coimbatore,3,March,Rabi,Groundnut,8.4,36.2,33.2,2150,32,2,0,28,Medium
+769,Rotavator,Maharashtra,Pune,3,March,Rabi,Paddy,24.4,46.6,29.9,1288,12,11,1,37,High
+770,Power Tiller,Tamil Nadu,Coimbatore,1,January,Rabi,Cotton,6.8,68.9,27.2,1090,28,15,0,15,Medium
+771,Rotavator,Maharashtra,Pune,3,March,Rabi,Sugarcane,21.4,59.9,30.7,1427,5,12,1,25,Medium
+772,Rotavator,Andhra Pradesh,Guntur,10,October,Kharif,Groundnut,3.9,130.9,29.3,1363,7,5,0,15,Medium
+773,Power Tiller,Telangana,Warangal,7,July,Kharif,Cotton,16.1,149.0,27.7,907,23,9,0,26,Medium
+774,Rotavator,Andhra Pradesh,Guntur,10,October,Kharif,Millets,4.9,81.0,29.9,1545,35,14,0,31,High
+775,Thresher,Karnataka,Mandya,1,January,Rabi,Paddy,10.3,40.7,30.9,2052,16,0,0,26,Medium
+776,Thresher,Tamil Nadu,Erode,2,February,Rabi,Paddy,14.3,49.5,27.6,1691,1,14,0,12,Low
+777,Plough,Karnataka,Belagavi,4,April,Summer,Vegetables,17.2,51.3,31.2,965,39,3,0,38,High
+778,Harvester,Karnataka,Mysuru,11,November,Rabi,Maize,10.9,0.0,27.1,4334,41,4,1,49,High
+779,Tractor,Telangana,Warangal,6,June,Kharif,Maize,15.3,141.8,29.0,1463,20,7,0,30,High
+780,Thresher,Maharashtra,Pune,2,February,Rabi,Maize,19.3,33.9,35.1,1451,18,15,0,24,Medium
+781,Harvester,Tamil Nadu,Coimbatore,5,May,Summer,Paddy,13.1,27.3,29.9,4372,17,5,0,25,Medium
+782,Sprayer,Karnataka,Mysuru,1,January,Rabi,Cotton,24.4,19.2,31.8,749,20,1,0,29,Medium
+783,Power Tiller,Karnataka,Mysuru,2,February,Rabi,Wheat,10.6,87.1,24.6,945,35,13,0,30,High
+784,Tractor,Karnataka,Belagavi,1,January,Rabi,Cotton,16.3,0.0,26.7,1835,19,4,0,27,Medium
+785,Harvester,Telangana,Warangal,8,August,Kharif,Vegetables,24.2,151.3,31.1,5427,3,17,0,25,Medium
+786,Plough,Telangana,Warangal,1,January,Rabi,Groundnut,10.2,30.0,27.0,1036,21,14,0,17,Medium
+787,Power Tiller,Karnataka,Belagavi,1,January,Rabi,Millets,29.3,29.9,27.8,1074,20,0,0,28,Medium
+788,Sprayer,Karnataka,Hassan,7,July,Kharif,Sugarcane,12.1,208.9,29.7,706,3,9,0,23,Medium
+789,Sprayer,Andhra Pradesh,Guntur,8,August,Kharif,Wheat,11.9,234.4,31.2,640,38,2,0,40,High
+790,Sprayer,Telangana,Warangal,8,August,Kharif,Wheat,17.1,161.9,28.9,661,13,8,0,26,Medium
+791,Sprayer,Maharashtra,Pune,1,January,Rabi,Vegetables,28.6,59.6,31.7,679,23,11,0,28,Medium
+792,Tractor,Andhra Pradesh,Guntur,4,April,Summer,Cotton,6.6,28.4,27.1,1441,1,17,1,14,Low
+793,Seed Drill,Telangana,Warangal,12,December,Rabi,Sugarcane,17.7,20.9,29.4,1354,1,13,0,24,Medium
+794,Seed Drill,Tamil Nadu,Erode,8,August,Kharif,Cotton,8.5,124.8,27.2,1139,11,1,0,22,Medium
+795,Thresher,Telangana,Warangal,5,May,Summer,Groundnut,29.7,0.0,36.0,2030,31,14,0,41,High
+796,Harvester,Tamil Nadu,Erode,1,January,Rabi,Wheat,28.7,55.3,23.4,3752,20,7,0,36,High
+797,Rotavator,Karnataka,Belagavi,1,January,Rabi,Wheat,7.2,98.7,27.3,1473,14,6,0,24,Medium
+798,Seed Drill,Karnataka,Hassan,2,February,Rabi,Maize,16.0,18.7,27.0,1336,23,12,0,30,High
+799,Rotavator,Karnataka,Belagavi,4,April,Summer,Wheat,15.5,7.8,27.0,1534,10,17,1,29,Medium
+800,Power Tiller,Tamil Nadu,Coimbatore,2,February,Rabi,Sugarcane,24.3,0.3,24.6,947,31,4,0,31,High
+801,Power Tiller,Tamil Nadu,Erode,6,June,Kharif,Sugarcane,2.8,101.1,29.4,721,14,14,0,15,Medium
+802,Power Tiller,Tamil Nadu,Coimbatore,12,December,Rabi,Millets,11.4,31.5,27.0,835,3,8,0,18,Medium
+803,Sprayer,Andhra Pradesh,Guntur,4,April,Summer,Vegetables,11.7,0.0,34.4,634,44,7,0,32,High
+804,Power Tiller,Karnataka,Mysuru,9,September,Kharif,Maize,18.2,149.5,26.9,1083,20,9,1,33,High
+805,Rotavator,Karnataka,Mandya,3,March,Rabi,Cotton,10.0,0.0,33.2,1659,41,17,1,33,High
+806,Power Tiller,Karnataka,Mysuru,7,July,Kharif,Groundnut,27.3,127.9,33.6,994,11,12,0,21,Medium
+807,Power Tiller,Tamil Nadu,Coimbatore,7,July,Kharif,Millets,23.4,109.1,31.2,907,17,15,0,21,Medium
+808,Plough,Karnataka,Belagavi,11,November,Rabi,Paddy,19.3,0.0,32.6,860,43,9,1,40,High
+809,Rotavator,Telangana,Warangal,3,March,Rabi,Maize,17.7,21.9,31.1,1278,7,4,1,31,High
+810,Power Tiller,Maharashtra,Pune,7,July,Kharif,Cotton,23.4,95.2,34.6,942,13,10,0,25,Medium
+811,Tractor,Maharashtra,Pune,9,September,Kharif,Vegetables,21.4,123.4,32.3,1715,35,6,0,36,High
+812,Power Tiller,Karnataka,Mandya,10,October,Kharif,Cotton,2.6,151.5,26.4,993,3,4,1,21,Medium
+813,Sprayer,Tamil Nadu,Coimbatore,4,April,Summer,Wheat,22.3,34.6,31.5,533,37,7,1,44,High
+814,Power Tiller,Karnataka,Mandya,9,September,Kharif,Cotton,26.8,182.2,24.6,1047,11,0,1,43,High
+815,Plough,Karnataka,Mysuru,7,July,Kharif,Cotton,21.8,122.3,30.2,893,0,9,0,22,Medium
+816,Seed Drill,Tamil Nadu,Coimbatore,1,January,Rabi,Millets,29.4,79.5,31.7,1471,3,4,0,23,Medium
+817,Tractor,Telangana,Warangal,12,December,Rabi,Cotton,7.1,113.4,31.4,1797,10,3,0,26,Medium
+818,Thresher,Karnataka,Mandya,2,February,Rabi,Millets,20.1,14.5,28.4,1819,44,17,0,33,High
+819,Seed Drill,Karnataka,Hassan,4,April,Summer,Sugarcane,29.4,51.6,25.4,1129,13,0,1,44,High
+820,Thresher,Telangana,Warangal,2,February,Rabi,Wheat,17.9,21.8,29.3,2242,3,4,0,20,Medium
+821,Thresher,Karnataka,Belagavi,5,May,Summer,Millets,28.5,0.0,30.8,2175,32,14,0,32,High
+822,Sprayer,Karnataka,Belagavi,3,March,Rabi,Sugarcane,7.6,0.0,32.1,638,34,14,1,31,High
+823,Tractor,Maharashtra,Pune,5,May,Summer,Millets,22.9,106.5,31.9,1671,28,17,0,35,High
+824,Power Tiller,Tamil Nadu,Coimbatore,4,April,Summer,Vegetables,23.3,10.4,27.0,843,12,6,0,20,Medium
+825,Rotavator,Karnataka,Mysuru,10,October,Kharif,Vegetables,17.6,102.8,27.3,1272,11,17,0,14,Low
+826,Rotavator,Karnataka,Belagavi,8,August,Kharif,Wheat,28.8,200.4,26.7,1278,34,14,0,39,High
+827,Sprayer,Karnataka,Belagavi,8,August,Kharif,Millets,19.9,162.6,28.4,800,10,10,0,26,Medium
+828,Plough,Maharashtra,Pune,11,November,Rabi,Maize,14.3,99.8,32.9,976,19,11,1,31,High
+829,Rotavator,Karnataka,Belagavi,12,December,Rabi,Sugarcane,4.9,0.0,33.2,1362,30,10,0,29,Medium
+830,Sprayer,Karnataka,Belagavi,6,June,Kharif,Paddy,25.7,233.9,31.3,717,15,13,0,26,Medium
+831,Sprayer,Tamil Nadu,Erode,3,March,Rabi,Paddy,17.8,53.6,33.9,567,44,15,1,42,High
+832,Tractor,Telangana,Warangal,12,December,Rabi,Cotton,14.0,49.1,26.7,1959,2,7,0,14,Low
+833,Seed Drill,Karnataka,Mandya,8,August,Kharif,Sugarcane,15.6,174.4,31.2,1155,0,15,0,17,Medium
+834,Tractor,Maharashtra,Pune,5,May,Summer,Millets,27.7,0.0,29.4,1635,17,12,0,21,Medium
+835,Harvester,Karnataka,Mysuru,3,March,Rabi,Millets,10.4,13.8,26.8,4287,11,8,0,18,Medium
+836,Seed Drill,Karnataka,Belagavi,4,April,Summer,Vegetables,28.7,28.3,28.4,1374,35,12,0,36,High
+837,Plough,Karnataka,Mysuru,11,November,Rabi,Millets,12.7,25.8,29.5,880,27,6,0,27,Medium
+838,Sprayer,Telangana,Warangal,8,August,Kharif,Groundnut,18.4,169.5,27.5,792,40,12,0,34,High
+839,Tractor,Karnataka,Mandya,3,March,Rabi,Sugarcane,16.2,39.9,29.7,1956,8,13,1,33,High
+840,Tractor,Maharashtra,Pune,1,January,Rabi,Millets,9.8,103.8,32.7,1409,34,10,0,27,Medium
+841,Power Tiller,Karnataka,Belagavi,12,December,Rabi,Vegetables,25.5,56.9,27.2,1189,21,12,0,32,High
+842,Plough,Karnataka,Mandya,10,October,Kharif,Millets,6.7,157.8,30.9,860,23,9,0,26,Medium
+843,Seed Drill,Tamil Nadu,Erode,5,May,Summer,Cotton,14.0,36.8,31.7,1349,2,13,0,14,Low
+844,Seed Drill,Karnataka,Mandya,11,November,Rabi,Paddy,17.3,12.8,30.5,1193,16,16,1,25,Medium
+845,Plough,Maharashtra,Pune,4,April,Summer,Maize,7.9,0.0,29.9,881,0,6,1,24,Medium
+846,Sprayer,Karnataka,Mandya,8,August,Kharif,Groundnut,3.5,143.5,27.6,735,7,16,0,11,Low
+847,Power Tiller,Karnataka,Mandya,12,December,Rabi,Vegetables,11.7,41.5,23.5,986,8,9,0,13,Low
+848,Power Tiller,Karnataka,Mysuru,8,August,Kharif,Paddy,27.3,155.8,23.1,1042,5,15,0,26,Medium
+849,Harvester,Tamil Nadu,Coimbatore,5,May,Summer,Paddy,23.8,25.7,28.4,4397,3,10,0,22,Medium
+850,Power Tiller,Karnataka,Hassan,4,April,Summer,Maize,6.0,140.3,29.3,834,30,5,1,31,High
+851,Harvester,Karnataka,Mysuru,9,September,Kharif,Millets,22.2,169.8,30.9,4734,41,2,0,46,High
+852,Tractor,Karnataka,Mysuru,4,April,Summer,Millets,11.5,54.8,28.6,1854,8,11,0,11,Low
+853,Plough,Karnataka,Mandya,1,January,Rabi,Wheat,9.3,35.7,30.3,971,24,13,0,17,Medium
+854,Seed Drill,Tamil Nadu,Erode,7,July,Kharif,Maize,4.8,138.0,26.5,1422,31,10,0,25,Medium
+855,Sprayer,Karnataka,Belagavi,11,November,Rabi,Maize,9.0,46.8,26.7,721,6,12,1,24,Medium
+856,Tractor,Karnataka,Mandya,11,November,Rabi,Paddy,5.9,15.0,26.4,1568,22,5,1,31,High
+857,Thresher,Tamil Nadu,Coimbatore,11,November,Rabi,Maize,5.2,0.0,30.5,2423,24,7,1,33,High
+858,Harvester,Tamil Nadu,Erode,5,May,Summer,Millets,2.8,70.1,30.3,4125,34,2,0,26,Medium
+859,Rotavator,Karnataka,Hassan,6,June,Kharif,Wheat,7.3,98.2,23.3,1337,0,8,0,12,Low
+860,Plough,Karnataka,Mandya,5,May,Summer,Vegetables,16.6,22.7,29.7,880,9,9,0,18,Medium
+861,Power Tiller,Telangana,Warangal,1,January,Rabi,Millets,7.1,23.2,33.2,865,26,2,0,27,Medium
+862,Thresher,Tamil Nadu,Coimbatore,8,August,Kharif,Wheat,26.5,214.3,27.1,2490,23,3,0,41,High
+863,Sprayer,Tamil Nadu,Coimbatore,9,September,Kharif,Sugarcane,29.8,164.9,30.7,657,8,16,1,34,High
+864,Sprayer,Tamil Nadu,Erode,10,October,Kharif,Wheat,1.3,139.3,33.0,639,4,4,1,21,Medium
+865,Thresher,Maharashtra,Pune,5,May,Summer,Vegetables,5.5,44.4,31.3,2057,32,6,0,22,Medium
+866,Seed Drill,Tamil Nadu,Coimbatore,5,May,Summer,Wheat,10.1,44.8,30.0,989,12,9,0,15,Medium
+867,Tractor,Maharashtra,Pune,8,August,Kharif,Maize,15.0,190.3,27.2,1703,29,10,0,30,High
+868,Tractor,Karnataka,Mysuru,12,December,Rabi,Wheat,23.7,88.9,26.2,2027,16,6,0,29,Medium
+869,Seed Drill,Karnataka,Belagavi,5,May,Summer,Paddy,9.0,17.1,27.3,1207,21,4,0,21,Medium
+870,Sprayer,Karnataka,Belagavi,11,November,Rabi,Maize,23.9,30.8,27.9,663,5,0,1,30,High
+871,Sprayer,Telangana,Warangal,6,June,Kharif,Paddy,27.1,120.0,34.9,701,4,9,0,25,Medium
+872,Seed Drill,Tamil Nadu,Erode,8,August,Kharif,Groundnut,6.5,117.2,27.2,831,16,17,0,20,Medium
+873,Power Tiller,Tamil Nadu,Erode,9,September,Kharif,Wheat,16.8,134.1,24.9,1137,27,14,1,46,High
+874,Power Tiller,Telangana,Warangal,7,July,Kharif,Maize,1.6,196.8,35.1,877,42,3,0,28,Medium
+875,Sprayer,Karnataka,Hassan,2,February,Rabi,Groundnut,12.1,54.5,22.4,808,34,3,0,33,High
+876,Rotavator,Andhra Pradesh,Guntur,5,May,Summer,Millets,15.7,0.0,30.2,1433,20,17,0,18,Medium
+877,Plough,Tamil Nadu,Erode,3,March,Rabi,Sugarcane,9.9,20.8,26.6,1033,24,12,1,32,High
+878,Power Tiller,Andhra Pradesh,Guntur,1,January,Rabi,Maize,7.4,57.7,32.1,1072,24,5,0,21,Medium
+879,Plough,Telangana,Warangal,4,April,Summer,Paddy,4.5,0.0,29.2,892,13,16,1,20,Medium
+880,Plough,Karnataka,Belagavi,1,January,Rabi,Millets,19.9,59.4,28.6,748,0,0,0,19,Medium
+881,Tractor,Telangana,Warangal,7,July,Kharif,Groundnut,11.6,150.5,31.7,1996,0,7,0,17,Medium
+882,Tractor,Tamil Nadu,Erode,7,July,Kharif,Millets,18.9,118.1,36.4,1741,41,14,0,32,High
+883,Thresher,Tamil Nadu,Erode,3,March,Rabi,Groundnut,21.4,18.5,30.8,1737,13,1,0,29,Medium
+884,Power Tiller,Karnataka,Belagavi,12,December,Rabi,Millets,29.6,42.5,27.6,1065,35,16,0,35,High
+885,Power Tiller,Andhra Pradesh,Guntur,1,January,Rabi,Sugarcane,12.7,71.7,27.8,1162,18,3,0,30,High
+886,Rotavator,Karnataka,Hassan,9,September,Kharif,Groundnut,4.1,153.9,25.8,1597,7,17,0,8,Low
+887,Thresher,Karnataka,Mysuru,12,December,Rabi,Sugarcane,21.4,42.4,31.7,2499,22,12,0,21,Medium
+888,Plough,Tamil Nadu,Coimbatore,1,January,Rabi,Cotton,11.8,23.6,29.0,1058,27,12,0,20,Medium
+889,Tractor,Karnataka,Hassan,2,February,Rabi,Maize,10.2,7.0,28.4,1896,17,17,0,19,Medium
+890,Sprayer,Karnataka,Mandya,1,January,Rabi,Vegetables,23.5,48.2,26.1,647,7,17,0,21,Medium
+891,Tractor,Telangana,Warangal,9,September,Kharif,Cotton,23.4,183.6,29.6,1825,20,9,1,39,High
+892,Plough,Tamil Nadu,Erode,12,December,Rabi,Sugarcane,14.6,27.6,27.5,756,9,16,0,13,Low
+893,Power Tiller,Telangana,Warangal,5,May,Summer,Cotton,25.7,32.7,28.5,785,20,6,0,22,Medium
+894,Rotavator,Karnataka,Mysuru,9,September,Kharif,Paddy,13.3,158.1,25.8,1091,13,10,1,30,High
+895,Tractor,Maharashtra,Pune,9,September,Kharif,Wheat,5.6,155.5,32.9,1771,25,0,1,39,High
+896,Tractor,Tamil Nadu,Erode,6,June,Kharif,Sugarcane,11.8,163.2,29.3,1902,32,7,0,38,High
+897,Tractor,Karnataka,Hassan,3,March,Rabi,Paddy,25.1,23.9,26.0,1476,24,10,1,45,High
+898,Harvester,Maharashtra,Pune,11,November,Rabi,Vegetables,12.4,0.0,29.4,3973,16,2,0,25,Medium
+899,Rotavator,Karnataka,Belagavi,11,November,Rabi,Cotton,24.9,27.1,30.3,1479,10,4,1,40,High
+900,Seed Drill,Maharashtra,Pune,2,February,Rabi,Sugarcane,24.7,40.7,29.3,1420,0,9,0,24,Medium
+901,Thresher,Karnataka,Hassan,1,January,Rabi,Sugarcane,8.7,17.8,23.6,2028,38,0,0,40,High
+902,Tractor,Karnataka,Hassan,11,November,Rabi,Maize,17.4,15.5,29.4,1796,30,5,1,41,High
+903,Sprayer,Karnataka,Mysuru,4,April,Summer,Paddy,29.4,57.9,30.0,549,16,14,1,35,High
+904,Power Tiller,Maharashtra,Pune,2,February,Rabi,Sugarcane,6.8,104.2,27.1,1137,3,13,0,11,Low
+905,Rotavator,Tamil Nadu,Coimbatore,5,May,Summer,Maize,29.0,11.2,30.8,1442,17,17,0,27,Medium
+906,Seed Drill,Maharashtra,Pune,3,March,Rabi,Wheat,13.0,29.1,26.5,1466,39,15,1,38,High
+907,Tractor,Karnataka,Hassan,2,February,Rabi,Groundnut,11.3,11.2,32.0,1979,36,9,0,34,High
+908,Plough,Telangana,Warangal,10,October,Kharif,Paddy,4.9,161.5,27.5,900,36,9,1,31,High
+909,Power Tiller,Tamil Nadu,Coimbatore,1,January,Rabi,Maize,14.2,21.6,26.6,1115,43,7,0,40,High
+910,Tractor,Telangana,Warangal,4,April,Summer,Vegetables,5.3,12.6,32.6,1512,20,12,0,18,Medium
+911,Power Tiller,Andhra Pradesh,Guntur,5,May,Summer,Sugarcane,8.6,0.0,21.0,816,15,16,0,14,Low
+912,Tractor,Tamil Nadu,Coimbatore,11,November,Rabi,Cotton,4.1,20.5,28.1,1849,20,3,1,34,High
+913,Thresher,Tamil Nadu,Coimbatore,4,April,Summer,Wheat,15.0,20.4,25.9,2444,26,5,1,39,High
+914,Sprayer,Andhra Pradesh,Guntur,3,March,Rabi,Cotton,2.1,35.9,26.2,682,40,3,1,36,High
+915,Tractor,Andhra Pradesh,Guntur,9,September,Kharif,Millets,8.6,84.7,27.8,1471,1,0,0,21,Medium
+916,Plough,Tamil Nadu,Coimbatore,8,August,Kharif,Millets,8.9,133.5,24.6,980,3,1,0,22,Medium
+917,Tractor,Karnataka,Hassan,10,October,Kharif,Maize,20.1,132.1,27.3,1277,31,12,1,42,High
+918,Power Tiller,Tamil Nadu,Coimbatore,2,February,Rabi,Cotton,3.1,15.3,25.3,932,31,11,0,26,Medium
+919,Plough,Tamil Nadu,Erode,5,May,Summer,Maize,18.9,64.2,27.7,749,8,16,0,16,Medium
+920,Harvester,Karnataka,Belagavi,12,December,Rabi,Vegetables,27.1,91.6,27.3,5304,36,16,0,32,High
+921,Harvester,Tamil Nadu,Erode,7,July,Kharif,Vegetables,17.7,202.7,25.1,5082,36,13,0,34,High
+922,Sprayer,Maharashtra,Pune,6,June,Kharif,Maize,17.2,78.4,31.3,492,2,5,0,24,Medium
+923,Tractor,Karnataka,Hassan,10,October,Kharif,Paddy,5.9,156.5,21.9,1797,28,13,1,33,High
+924,Rotavator,Tamil Nadu,Coimbatore,12,December,Rabi,Millets,20.0,0.0,28.4,1239,27,15,0,28,Medium
+925,Rotavator,Karnataka,Belagavi,5,May,Summer,Sugarcane,28.3,33.6,27.8,1606,4,16,0,20,Medium
+926,Thresher,Andhra Pradesh,Guntur,9,September,Kharif,Cotton,25.6,239.3,26.8,2182,9,2,1,42,High
+927,Sprayer,Karnataka,Mysuru,9,September,Kharif,Groundnut,25.3,225.3,27.3,750,40,12,0,37,High
+928,Plough,Karnataka,Belagavi,5,May,Summer,Millets,23.3,10.8,31.5,770,38,11,0,29,Medium
+929,Thresher,Karnataka,Mysuru,4,April,Summer,Cotton,10.8,19.9,23.9,1839,2,11,1,16,Medium
+930,Thresher,Telangana,Warangal,12,December,Rabi,Maize,1.8,51.5,27.2,1942,9,14,0,9,Low
+931,Plough,Tamil Nadu,Erode,2,February,Rabi,Cotton,20.6,83.7,28.1,1007,32,9,0,38,High
+932,Rotavator,Tamil Nadu,Erode,10,October,Kharif,Groundnut,6.7,143.3,31.5,1327,19,4,0,31,High
+933,Sprayer,Karnataka,Belagavi,9,September,Kharif,Maize,18.2,104.1,31.8,723,43,14,1,42,High
+934,Thresher,Andhra Pradesh,Guntur,4,April,Summer,Sugarcane,15.3,57.1,33.0,2352,1,7,1,22,Medium
+935,Plough,Tamil Nadu,Coimbatore,11,November,Rabi,Vegetables,21.7,0.0,26.8,819,9,16,0,19,Medium
+936,Plough,Andhra Pradesh,Guntur,5,May,Summer,Groundnut,28.1,0.0,26.9,861,40,12,0,35,High
+937,Rotavator,Tamil Nadu,Erode,2,February,Rabi,Wheat,22.9,72.2,27.4,1395,24,8,0,34,High
+938,Plough,Karnataka,Mysuru,5,May,Summer,Sugarcane,16.5,0.0,30.3,837,4,8,0,18,Medium
+939,Plough,Karnataka,Hassan,10,October,Kharif,Groundnut,7.1,101.5,23.9,967,44,13,0,26,Medium
+940,Plough,Karnataka,Mandya,2,February,Rabi,Wheat,14.4,9.3,24.0,985,4,4,0,28,Medium
+941,Thresher,Karnataka,Mysuru,6,June,Kharif,Sugarcane,16.3,124.0,30.2,2351,3,13,0,15,Medium
+942,Sprayer,Karnataka,Hassan,3,March,Rabi,Groundnut,1.8,29.3,22.9,607,16,10,0,12,Low
+943,Plough,Karnataka,Hassan,8,August,Kharif,Wheat,4.7,189.0,25.5,719,32,4,0,24,Medium
+944,Harvester,Telangana,Warangal,5,May,Summer,Cotton,21.6,85.8,28.4,3615,18,7,0,26,Medium
+945,Harvester,Tamil Nadu,Erode,3,March,Rabi,Millets,27.2,55.8,30.3,4451,29,1,0,44,High
+946,Tractor,Karnataka,Belagavi,6,June,Kharif,Vegetables,10.4,171.0,28.1,1710,30,6,0,25,Medium
+947,Rotavator,Tamil Nadu,Erode,8,August,Kharif,Millets,25.0,91.7,27.6,1456,9,12,0,24,Medium
+948,Power Tiller,Karnataka,Hassan,7,July,Kharif,Millets,26.3,111.8,32.3,887,30,7,0,39,High
+949,Rotavator,Karnataka,Hassan,3,March,Rabi,Millets,20.5,25.6,30.0,1665,17,2,0,36,High
+950,Sprayer,Karnataka,Hassan,5,May,Summer,Cotton,16.6,0.0,28.6,700,10,10,0,18,Medium
+951,Rotavator,Karnataka,Belagavi,4,April,Summer,Millets,15.8,12.1,28.4,1291,33,17,0,25,Medium
+952,Power Tiller,Karnataka,Belagavi,5,May,Summer,Vegetables,20.4,96.4,24.0,1051,37,16,0,30,High
+953,Tractor,Tamil Nadu,Erode,9,September,Kharif,Sugarcane,6.9,156.8,22.4,1821,20,12,1,31,High
+954,Harvester,Andhra Pradesh,Guntur,8,August,Kharif,Sugarcane,10.7,155.2,26.3,4041,6,17,0,19,Medium
+955,Rotavator,Tamil Nadu,Erode,10,October,Kharif,Paddy,25.7,98.7,30.2,1317,2,17,1,32,High
+956,Rotavator,Karnataka,Mysuru,4,April,Summer,Millets,8.8,29.6,29.6,1451,0,17,0,7,Low
+957,Tractor,Karnataka,Hassan,2,February,Rabi,Cotton,18.6,44.7,32.9,1697,41,5,0,41,High
+958,Harvester,Telangana,Warangal,7,July,Kharif,Paddy,28.8,48.6,27.1,5094,16,3,0,38,High
+959,Harvester,Karnataka,Mysuru,10,October,Kharif,Paddy,12.4,154.1,26.1,5182,2,1,1,38,High
+960,Sprayer,Tamil Nadu,Erode,9,September,Kharif,Wheat,23.0,116.6,31.8,745,33,14,1,40,High
+961,Plough,Tamil Nadu,Erode,12,December,Rabi,Cotton,6.6,92.1,30.1,750,42,6,0,38,High
+962,Sprayer,Telangana,Warangal,2,February,Rabi,Maize,11.8,56.6,37.4,638,35,5,0,35,High
+963,Harvester,Tamil Nadu,Erode,1,January,Rabi,Paddy,4.1,56.5,29.4,4282,22,1,0,42,High
+964,Harvester,Andhra Pradesh,Guntur,5,May,Summer,Paddy,21.0,2.7,29.4,4211,42,0,0,49,High
+965,Harvester,Andhra Pradesh,Guntur,12,December,Rabi,Millets,14.5,33.3,24.8,4884,9,7,0,13,Low
+966,Plough,Maharashtra,Pune,9,September,Kharif,Millets,10.2,131.9,27.5,978,22,9,0,25,Medium
+967,Rotavator,Maharashtra,Pune,2,February,Rabi,Vegetables,2.1,67.3,28.4,1266,19,8,0,13,Low
+968,Sprayer,Karnataka,Mysuru,11,November,Rabi,Cotton,24.2,10.9,25.6,682,43,1,1,48,High
+969,Power Tiller,Karnataka,Mandya,3,March,Rabi,Maize,4.2,50.9,32.5,1068,37,3,1,39,High
+970,Rotavator,Tamil Nadu,Coimbatore,7,July,Kharif,Vegetables,15.8,148.6,27.3,1474,0,0,0,24,Medium
+971,Sprayer,Maharashtra,Pune,5,May,Summer,Groundnut,16.2,0.0,29.4,553,8,7,0,20,Medium
+972,Tractor,Andhra Pradesh,Guntur,11,November,Rabi,Millets,15.1,0.0,32.1,2272,38,2,0,36,High
+973,Tractor,Karnataka,Belagavi,7,July,Kharif,Maize,16.9,124.8,27.0,1777,18,9,0,22,Medium
+974,Thresher,Karnataka,Belagavi,7,July,Kharif,Sugarcane,13.3,214.3,28.7,1774,37,5,0,40,High
+975,Plough,Karnataka,Belagavi,5,May,Summer,Maize,13.5,48.1,28.6,964,26,6,0,27,Medium
+976,Tractor,Karnataka,Mysuru,6,June,Kharif,Cotton,16.9,155.7,24.1,1576,19,9,0,29,Medium
+977,Thresher,Tamil Nadu,Erode,9,September,Kharif,Groundnut,24.9,137.7,24.6,2220,41,12,0,43,High
+978,Seed Drill,Karnataka,Belagavi,9,September,Kharif,Groundnut,9.5,114.8,24.1,1258,41,15,0,24,Medium
+979,Rotavator,Karnataka,Mysuru,1,January,Rabi,Paddy,20.0,3.4,33.3,1552,37,9,0,38,High
+980,Plough,Tamil Nadu,Erode,10,October,Kharif,Cotton,1.2,165.8,27.7,926,38,13,1,31,High
+981,Sprayer,Karnataka,Belagavi,4,April,Summer,Sugarcane,6.0,31.9,24.5,616,42,8,1,43,High
+982,Tractor,Karnataka,Mandya,5,May,Summer,Sugarcane,20.7,0.0,31.9,1840,12,17,0,19,Medium
+983,Plough,Karnataka,Mysuru,7,July,Kharif,Maize,20.0,170.1,25.8,920,40,9,0,31,High
+984,Power Tiller,Tamil Nadu,Erode,8,August,Kharif,Cotton,12.3,151.2,28.8,1160,13,8,0,20,Medium
+985,Tractor,Karnataka,Belagavi,10,October,Kharif,Wheat,7.7,171.5,31.4,1733,12,14,1,27,Medium
+986,Tractor,Tamil Nadu,Erode,10,October,Kharif,Vegetables,17.0,142.5,26.9,1761,34,1,0,41,High
+987,Tractor,Andhra Pradesh,Guntur,2,February,Rabi,Cotton,12.7,28.3,34.7,1709,41,0,0,40,High
+988,Seed Drill,Karnataka,Belagavi,2,February,Rabi,Paddy,1.5,17.0,26.7,1360,18,12,0,18,Medium
+989,Rotavator,Tamil Nadu,Erode,4,April,Summer,Wheat,25.9,47.0,26.5,1401,42,5,1,51,High
+990,Seed Drill,Tamil Nadu,Erode,12,December,Rabi,Millets,5.7,50.9,29.4,849,10,6,0,19,Medium
+991,Tractor,Karnataka,Belagavi,6,June,Kharif,Paddy,24.8,130.2,29.6,1752,37,7,0,39,High
+992,Plough,Karnataka,Mysuru,1,January,Rabi,Groundnut,7.7,113.3,32.9,1037,6,4,0,21,Medium
+993,Rotavator,Karnataka,Mysuru,7,July,Kharif,Millets,10.9,148.9,24.3,1301,43,16,0,33,High
+994,Power Tiller,Karnataka,Belagavi,9,September,Kharif,Groundnut,24.2,100.1,28.7,959,15,12,0,22,Medium
+995,Thresher,Karnataka,Hassan,6,June,Kharif,Millets,8.1,212.9,34.3,2224,13,8,0,20,Medium
+996,Harvester,Maharashtra,Pune,5,May,Summer,Groundnut,24.0,24.6,28.3,4215,22,7,0,27,Medium
+997,Tractor,Tamil Nadu,Coimbatore,3,March,Rabi,Groundnut,19.0,29.1,30.8,1412,11,5,0,26,Medium
+998,Thresher,Tamil Nadu,Erode,7,July,Kharif,Maize,5.1,201.0,25.6,2143,1,9,0,14,Low
+999,Harvester,Maharashtra,Pune,5,May,Summer,Wheat,23.4,0.0,29.3,3874,3,1,0,26,Medium
+1000,Tractor,Karnataka,Mandya,5,May,Summer,Maize,29.6,52.0,26.6,2050,1,13,0,21,Medium
+1001,Tractor,Karnataka,Mandya,11,November,Rabi,Wheat,19.6,0.0,31.0,1781,32,13,1,44,High
+1002,Tractor,Maharashtra,Pune,7,July,Kharif,Groundnut,28.1,139.4,32.8,1761,30,6,0,41,High
+1003,Plough,Karnataka,Hassan,11,November,Rabi,Maize,26.1,33.1,29.6,905,18,16,1,40,High
+1004,Seed Drill,Tamil Nadu,Erode,8,August,Kharif,Maize,12.4,125.4,27.5,1244,23,17,0,23,Medium
+1005,Rotavator,Karnataka,Hassan,3,March,Rabi,Millets,20.9,81.8,32.4,1444,17,5,0,32,High
+1006,Plough,Karnataka,Belagavi,4,April,Summer,Paddy,11.0,95.3,31.2,844,1,10,1,24,Medium
+1007,Rotavator,Karnataka,Hassan,4,April,Summer,Millets,27.8,0.0,29.2,1310,44,8,0,35,High
+1008,Thresher,Karnataka,Mysuru,9,September,Kharif,Paddy,11.1,122.4,24.5,2204,21,13,1,34,High
+1009,Sprayer,Andhra Pradesh,Guntur,3,March,Rabi,Groundnut,4.9,0.0,30.6,871,31,8,0,23,Medium
+1010,Sprayer,Andhra Pradesh,Guntur,3,March,Rabi,Maize,1.9,74.9,30.3,807,8,0,1,24,Medium
+1011,Seed Drill,Maharashtra,Pune,2,February,Rabi,Wheat,11.4,51.0,32.1,1140,6,4,0,25,Medium
+1012,Rotavator,Karnataka,Belagavi,7,July,Kharif,Sugarcane,13.2,151.2,28.6,1273,7,6,0,19,Medium
+1013,Sprayer,Karnataka,Mandya,6,June,Kharif,Paddy,1.1,138.9,24.5,668,32,1,0,27,Medium
+1014,Sprayer,Karnataka,Hassan,7,July,Kharif,Sugarcane,22.1,150.1,28.3,733,39,17,0,31,High
+1015,Rotavator,Karnataka,Mandya,2,February,Rabi,Paddy,16.4,33.1,35.4,1367,10,1,0,30,High
+1016,Rotavator,Karnataka,Mysuru,4,April,Summer,Vegetables,19.5,28.5,26.3,1454,32,13,0,32,High
+1017,Sprayer,Karnataka,Belagavi,9,September,Kharif,Vegetables,23.6,183.2,32.5,635,38,14,0,43,High
+1018,Tractor,Maharashtra,Pune,10,October,Kharif,Wheat,8.8,158.6,29.1,2003,41,10,1,39,High
+1019,Power Tiller,Karnataka,Hassan,10,October,Kharif,Vegetables,13.2,185.3,31.3,946,17,11,0,18,Medium
+1020,Plough,Tamil Nadu,Erode,1,January,Rabi,Groundnut,22.8,1.2,25.9,784,6,14,0,12,Low
+1021,Power Tiller,Karnataka,Hassan,1,January,Rabi,Sugarcane,28.8,36.1,32.9,1200,7,4,0,31,High
+1022,Rotavator,Maharashtra,Pune,8,August,Kharif,Vegetables,26.7,193.0,31.8,1279,25,10,0,27,Medium
+1023,Power Tiller,Tamil Nadu,Coimbatore,6,June,Kharif,Maize,12.9,145.0,27.5,1002,6,17,0,14,Low
+1024,Seed Drill,Maharashtra,Pune,3,March,Rabi,Paddy,23.9,15.5,29.8,1367,17,17,1,40,High
+1025,Plough,Telangana,Warangal,1,January,Rabi,Maize,26.0,17.4,28.5,859,14,1,0,30,High
+1026,Power Tiller,Andhra Pradesh,Guntur,5,May,Summer,Groundnut,26.5,25.6,33.1,1157,22,3,0,35,High
+1027,Seed Drill,Karnataka,Mysuru,1,January,Rabi,Cotton,17.5,28.5,32.2,1226,4,5,0,18,Medium
+1028,Sprayer,Karnataka,Mysuru,9,September,Kharif,Wheat,5.0,157.6,30.0,721,0,10,1,25,Medium
+1029,Sprayer,Tamil Nadu,Erode,3,March,Rabi,Wheat,12.3,23.4,27.6,746,43,7,1,43,High
+1030,Thresher,Karnataka,Mysuru,7,July,Kharif,Millets,8.3,106.8,24.4,2236,43,15,0,23,Medium
+1031,Seed Drill,Karnataka,Mysuru,1,January,Rabi,Sugarcane,12.8,41.6,29.8,1287,4,2,0,22,Medium
+1032,Sprayer,Karnataka,Belagavi,11,November,Rabi,Paddy,9.8,36.3,30.3,706,6,12,1,28,Medium
+1033,Tractor,Tamil Nadu,Erode,10,October,Kharif,Wheat,5.4,138.6,23.9,1847,22,9,1,35,High
+1034,Sprayer,Andhra Pradesh,Guntur,1,January,Rabi,Vegetables,8.1,43.1,26.1,652,25,5,0,27,Medium
+1035,Tractor,Karnataka,Mandya,11,November,Rabi,Sugarcane,23.7,63.4,29.9,2051,40,16,1,50,High
+1036,Harvester,Andhra Pradesh,Guntur,5,May,Summer,Wheat,11.7,25.3,33.6,4174,35,7,0,31,High
+1037,Tractor,Tamil Nadu,Coimbatore,9,September,Kharif,Wheat,22.7,130.0,31.5,1819,39,1,1,58,High
+1038,Harvester,Karnataka,Hassan,5,May,Summer,Groundnut,28.9,27.0,23.5,5736,37,5,0,39,High
+1039,Sprayer,Telangana,Warangal,7,July,Kharif,Sugarcane,7.3,161.1,26.4,755,43,11,0,35,High
+1040,Tractor,Karnataka,Hassan,2,February,Rabi,Vegetables,23.8,4.6,30.4,2121,17,8,0,30,High
+1041,Seed Drill,Karnataka,Hassan,3,March,Rabi,Sugarcane,29.1,7.7,21.6,1402,14,13,1,37,High
+1042,Power Tiller,Karnataka,Belagavi,8,August,Kharif,Wheat,11.9,219.0,25.9,1103,6,3,0,24,Medium
+1043,Plough,Karnataka,Hassan,6,June,Kharif,Vegetables,26.1,151.6,31.3,825,24,2,0,38,High
+1044,Tractor,Karnataka,Mandya,4,April,Summer,Millets,21.8,24.9,26.7,2007,14,11,0,17,Medium
+1045,Sprayer,Tamil Nadu,Erode,6,June,Kharif,Cotton,29.3,160.5,28.4,694,12,16,0,26,Medium
+1046,Rotavator,Karnataka,Mysuru,3,March,Rabi,Sugarcane,28.1,92.4,33.1,1170,35,11,1,43,High
+1047,Seed Drill,Karnataka,Hassan,2,February,Rabi,Sugarcane,1.3,83.3,31.6,1366,1,15,0,6,Low
+1048,Harvester,Maharashtra,Pune,9,September,Kharif,Groundnut,26.8,137.7,33.4,5398,9,11,0,27,Medium
+1049,Thresher,Andhra Pradesh,Guntur,8,August,Kharif,Cotton,29.8,164.8,31.6,2664,13,3,0,34,High
+1050,Thresher,Telangana,Warangal,7,July,Kharif,Paddy,3.3,176.2,31.3,2126,4,15,0,15,Medium
+1051,Plough,Karnataka,Hassan,2,February,Rabi,Maize,11.5,59.0,23.0,887,25,12,0,27,Medium
+1052,Rotavator,Karnataka,Mysuru,5,May,Summer,Paddy,8.7,10.5,23.5,1488,21,1,0,22,Medium
+1053,Sprayer,Telangana,Warangal,1,January,Rabi,Maize,27.9,29.6,22.7,732,37,7,0,43,High
+1054,Plough,Tamil Nadu,Coimbatore,11,November,Rabi,Sugarcane,23.8,102.7,23.7,776,14,10,1,36,High
+1055,Tractor,Karnataka,Belagavi,2,February,Rabi,Paddy,20.3,0.0,34.1,1794,14,6,0,32,High
+1056,Tractor,Telangana,Warangal,10,October,Kharif,Maize,14.5,201.2,24.4,1918,39,0,1,45,High
+1057,Thresher,Karnataka,Hassan,7,July,Kharif,Paddy,13.3,132.5,27.8,1931,23,1,0,35,High
+1058,Harvester,Karnataka,Mandya,3,March,Rabi,Sugarcane,17.1,96.5,26.3,4403,7,8,1,30,High
+1059,Sprayer,Andhra Pradesh,Guntur,7,July,Kharif,Maize,14.0,195.5,29.7,627,9,0,0,20,Medium
+1060,Seed Drill,Karnataka,Mysuru,5,May,Summer,Sugarcane,25.5,31.6,31.0,912,36,15,0,27,Medium
+1061,Thresher,Telangana,Warangal,3,March,Rabi,Millets,25.9,72.2,29.5,2350,15,7,0,29,Medium
+1062,Tractor,Karnataka,Mysuru,4,April,Summer,Groundnut,13.2,56.3,28.9,1547,4,8,0,16,Medium
+1063,Tractor,Karnataka,Hassan,10,October,Kharif,Cotton,28.4,100.4,25.0,1728,19,17,1,41,High
+1064,Harvester,Karnataka,Mysuru,9,September,Kharif,Maize,4.3,108.9,20.4,4461,8,17,1,26,Medium
+1065,Harvester,Telangana,Warangal,1,January,Rabi,Wheat,7.7,20.4,33.5,5201,4,0,0,17,Medium
+1066,Seed Drill,Karnataka,Mandya,9,September,Kharif,Sugarcane,18.8,77.7,31.1,1174,16,12,1,34,High
+1067,Plough,Karnataka,Mandya,4,April,Summer,Millets,15.1,60.1,27.0,868,44,8,0,28,Medium
+1068,Harvester,Andhra Pradesh,Guntur,6,June,Kharif,Millets,22.9,109.1,26.6,5388,17,13,0,28,Medium
+1069,Rotavator,Tamil Nadu,Coimbatore,8,August,Kharif,Millets,8.5,74.6,28.6,1461,23,5,0,22,Medium
+1070,Seed Drill,Tamil Nadu,Coimbatore,3,March,Rabi,Wheat,28.9,60.8,19.8,1135,34,15,1,46,High
+1071,Rotavator,Karnataka,Belagavi,12,December,Rabi,Wheat,28.4,38.5,28.3,1212,33,2,0,39,High
+1072,Plough,Telangana,Warangal,1,January,Rabi,Millets,23.7,12.8,22.4,718,3,6,0,19,Medium
+1073,Thresher,Karnataka,Mysuru,5,May,Summer,Millets,23.5,10.8,28.2,2034,44,11,0,38,High
+1074,Plough,Andhra Pradesh,Guntur,10,October,Kharif,Paddy,9.8,190.3,26.8,956,29,17,1,34,High
+1075,Tractor,Tamil Nadu,Coimbatore,11,November,Rabi,Vegetables,11.8,85.0,31.5,1965,11,7,0,16,Medium
+1076,Rotavator,Karnataka,Mysuru,8,August,Kharif,Maize,21.4,169.6,31.7,1206,16,9,0,29,Medium
+1077,Harvester,Karnataka,Belagavi,4,April,Summer,Sugarcane,4.3,0.0,24.1,4324,44,3,1,44,High
+1078,Thresher,Tamil Nadu,Coimbatore,9,September,Kharif,Millets,26.3,124.3,27.6,2368,4,11,0,29,Medium
+1079,Thresher,Karnataka,Mysuru,1,January,Rabi,Wheat,10.1,66.7,32.5,1759,2,8,0,21,Medium
+1080,Seed Drill,Karnataka,Mandya,6,June,Kharif,Paddy,26.3,129.8,26.7,1045,42,7,0,42,High
+1081,Tractor,Andhra Pradesh,Guntur,10,October,Kharif,Wheat,12.4,215.6,28.8,1874,7,9,1,29,Medium
+1082,Rotavator,Karnataka,Mysuru,2,February,Rabi,Wheat,17.5,41.4,31.2,1099,25,16,0,22,Medium
+1083,Rotavator,Tamil Nadu,Erode,12,December,Rabi,Groundnut,8.4,85.9,29.4,1272,25,7,0,22,Medium
+1084,Sprayer,Karnataka,Mandya,11,November,Rabi,Paddy,22.5,41.1,27.6,745,43,8,1,51,High
+1085,Tractor,Tamil Nadu,Coimbatore,6,June,Kharif,Cotton,18.4,38.2,27.8,1622,2,6,0,14,Low
+1086,Harvester,Maharashtra,Pune,8,August,Kharif,Cotton,17.8,164.3,28.3,4482,26,15,0,32,High
+1087,Power Tiller,Tamil Nadu,Erode,9,September,Kharif,Paddy,25.2,114.3,27.5,953,17,7,1,38,High
+1088,Sprayer,Karnataka,Hassan,7,July,Kharif,Groundnut,10.0,87.3,29.1,790,35,1,0,31,High
+1089,Power Tiller,Tamil Nadu,Coimbatore,2,February,Rabi,Cotton,23.1,28.7,24.8,1050,23,16,0,26,Medium
+1090,Thresher,Telangana,Warangal,10,October,Kharif,Paddy,21.2,194.9,27.8,2492,25,17,1,38,High
+1091,Tractor,Karnataka,Belagavi,2,February,Rabi,Vegetables,13.1,74.6,30.8,1571,20,13,0,23,Medium
+1092,Thresher,Karnataka,Hassan,7,July,Kharif,Wheat,1.4,147.8,31.6,2103,5,3,0,12,Low
+1093,Seed Drill,Andhra Pradesh,Guntur,3,March,Rabi,Vegetables,23.7,3.9,31.7,1110,38,7,0,40,High
+1094,Sprayer,Karnataka,Hassan,7,July,Kharif,Cotton,15.2,150.3,22.4,675,29,6,0,36,High
+1095,Plough,Karnataka,Hassan,1,January,Rabi,Sugarcane,17.3,44.0,25.1,866,38,7,0,34,High
+1096,Tractor,Karnataka,Belagavi,12,December,Rabi,Cotton,6.9,0.0,26.7,1790,10,7,0,20,Medium
+1097,Seed Drill,Maharashtra,Pune,5,May,Summer,Groundnut,18.0,70.1,30.4,1127,9,16,0,16,Medium
+1098,Seed Drill,Tamil Nadu,Coimbatore,4,April,Summer,Wheat,17.3,0.0,24.4,1082,21,12,1,31,High
+1099,Seed Drill,Tamil Nadu,Coimbatore,2,February,Rabi,Maize,11.1,51.4,28.0,1317,11,8,0,18,Medium
+1100,Tractor,Tamil Nadu,Erode,9,September,Kharif,Wheat,6.2,84.2,30.3,1794,15,0,1,34,High
+1101,Plough,Karnataka,Mandya,3,March,Rabi,Wheat,6.8,15.2,29.9,972,10,10,1,20,Medium
+1102,Tractor,Maharashtra,Pune,9,September,Kharif,Paddy,11.6,124.8,31.7,1809,28,5,1,36,High
+1103,Rotavator,Telangana,Warangal,12,December,Rabi,Millets,19.5,0.0,29.9,1387,44,1,0,38,High
+1104,Plough,Tamil Nadu,Erode,7,July,Kharif,Sugarcane,28.5,143.7,25.1,717,6,2,0,28,Medium
+1105,Plough,Karnataka,Mysuru,8,August,Kharif,Sugarcane,21.0,155.6,27.9,788,9,16,0,22,Medium
+1106,Power Tiller,Andhra Pradesh,Guntur,7,July,Kharif,Wheat,22.0,92.8,26.6,1041,6,4,0,31,High
+1107,Plough,Karnataka,Mandya,6,June,Kharif,Vegetables,11.5,163.5,27.8,832,39,15,0,28,Medium
+1108,Seed Drill,Telangana,Warangal,8,August,Kharif,Paddy,17.6,152.6,27.6,1053,4,4,0,28,Medium
+1109,Plough,Tamil Nadu,Erode,1,January,Rabi,Maize,27.6,0.0,30.4,697,22,4,0,32,High
+1110,Plough,Maharashtra,Pune,9,September,Kharif,Millets,13.8,162.5,24.4,916,13,12,0,17,Medium
+1111,Tractor,Tamil Nadu,Coimbatore,6,June,Kharif,Millets,4.3,152.6,25.4,1711,41,1,0,30,High
+1112,Power Tiller,Karnataka,Mandya,1,January,Rabi,Cotton,20.6,18.5,27.5,907,20,11,0,25,Medium
+1113,Rotavator,Tamil Nadu,Erode,12,December,Rabi,Groundnut,3.2,40.1,24.9,1326,36,7,0,22,Medium
+1114,Tractor,Karnataka,Mysuru,6,June,Kharif,Cotton,5.2,130.1,36.9,1656,10,12,0,10,Low
+1115,Thresher,Karnataka,Hassan,12,December,Rabi,Millets,25.8,61.0,27.4,2131,36,17,0,37,High
+1116,Tractor,Karnataka,Mysuru,2,February,Rabi,Millets,19.5,104.3,28.8,1987,30,13,0,31,High
+1117,Tractor,Tamil Nadu,Coimbatore,3,March,Rabi,Wheat,12.4,10.7,29.2,1785,31,2,1,52,High
+1118,Rotavator,Tamil Nadu,Erode,7,July,Kharif,Millets,21.2,154.6,35.7,1238,6,7,0,25,Medium
+1119,Sprayer,Tamil Nadu,Erode,2,February,Rabi,Paddy,22.2,0.0,22.6,680,7,2,0,33,High
+1120,Rotavator,Karnataka,Hassan,9,September,Kharif,Millets,20.2,129.5,23.4,1742,32,5,0,35,High
+1121,Power Tiller,Karnataka,Mysuru,4,April,Summer,Groundnut,18.7,41.2,25.5,960,36,15,0,30,High
+1122,Thresher,Andhra Pradesh,Guntur,11,November,Rabi,Sugarcane,13.4,34.7,26.5,1857,2,15,1,21,Medium
+1123,Power Tiller,Karnataka,Mandya,4,April,Summer,Paddy,24.8,49.3,25.7,892,38,9,1,50,High
+1124,Sprayer,Tamil Nadu,Erode,5,May,Summer,Maize,25.2,0.0,24.2,809,42,17,0,32,High
+1125,Rotavator,Maharashtra,Pune,10,October,Kharif,Wheat,27.9,166.1,29.1,1749,43,2,1,62,High
+1126,Harvester,Karnataka,Mandya,8,August,Kharif,Sugarcane,17.6,137.8,32.9,4718,27,2,0,38,High
+1127,Thresher,Maharashtra,Pune,6,June,Kharif,Sugarcane,5.4,100.8,27.7,1764,4,12,0,11,Low
+1128,Harvester,Maharashtra,Pune,1,January,Rabi,Sugarcane,13.3,25.6,26.1,4290,27,2,0,36,High
+1129,Rotavator,Karnataka,Hassan,1,January,Rabi,Maize,22.9,20.3,29.6,1239,5,10,0,23,Medium
+1130,Thresher,Karnataka,Belagavi,10,October,Kharif,Vegetables,1.1,86.0,28.3,1755,27,15,0,17,Medium
+1131,Plough,Andhra Pradesh,Guntur,1,January,Rabi,Paddy,11.8,8.6,26.3,1097,21,4,0,29,Medium
+1132,Plough,Andhra Pradesh,Guntur,4,April,Summer,Maize,11.9,63.7,30.9,785,28,10,1,31,High
+1133,Power Tiller,Karnataka,Mandya,6,June,Kharif,Maize,15.8,153.5,26.8,930,29,13,0,29,Medium
+1134,Power Tiller,Telangana,Warangal,10,October,Kharif,Millets,25.3,147.2,28.5,1023,17,5,0,33,High
+1135,Harvester,Tamil Nadu,Erode,11,November,Rabi,Millets,16.2,28.9,32.8,4436,33,8,0,41,High
+1136,Rotavator,Telangana,Warangal,1,January,Rabi,Sugarcane,16.4,35.0,28.1,1306,18,1,0,35,High
+1137,Sprayer,Andhra Pradesh,Guntur,7,July,Kharif,Maize,23.6,190.0,38.1,660,24,14,0,31,High
+1138,Tractor,Andhra Pradesh,Guntur,9,September,Kharif,Cotton,20.2,58.2,30.4,1760,19,3,1,40,High
+1139,Plough,Karnataka,Mandya,5,May,Summer,Cotton,4.5,47.2,27.3,999,10,3,0,14,Low
+1140,Rotavator,Telangana,Warangal,8,August,Kharif,Paddy,12.7,172.5,34.6,1338,2,13,0,14,Low
+1141,Sprayer,Maharashtra,Pune,3,March,Rabi,Wheat,13.8,38.5,33.2,695,2,12,1,27,Medium
+1142,Plough,Karnataka,Belagavi,8,August,Kharif,Wheat,1.8,149.0,26.8,891,33,14,0,21,Medium
+1143,Harvester,Tamil Nadu,Coimbatore,9,September,Kharif,Wheat,2.3,179.3,28.3,5016,17,3,1,37,High
+1144,Sprayer,Karnataka,Mysuru,3,March,Rabi,Vegetables,1.3,0.0,30.0,765,22,17,0,17,Medium
+1145,Tractor,Karnataka,Mandya,10,October,Kharif,Millets,7.1,160.8,26.3,1845,28,6,0,29,Medium
+1146,Rotavator,Karnataka,Belagavi,5,May,Summer,Groundnut,11.5,31.6,31.6,1714,42,11,0,34,High
+1147,Seed Drill,Tamil Nadu,Coimbatore,5,May,Summer,Paddy,15.5,0.0,26.5,1039,6,16,0,14,Low
+1148,Sprayer,Karnataka,Hassan,6,June,Kharif,Wheat,27.8,130.2,29.5,765,11,4,0,27,Medium
+1149,Thresher,Karnataka,Belagavi,5,May,Summer,Groundnut,6.1,81.6,32.9,2394,38,6,0,35,High
+1150,Sprayer,Tamil Nadu,Erode,3,March,Rabi,Vegetables,2.1,23.2,31.7,696,0,0,0,12,Low
+1151,Thresher,Tamil Nadu,Coimbatore,5,May,Summer,Cotton,24.1,58.4,30.0,2490,29,6,0,27,Medium
+1152,Seed Drill,Tamil Nadu,Erode,3,March,Rabi,Cotton,21.5,15.6,29.3,1304,37,15,1,45,High
+1153,Thresher,Tamil Nadu,Erode,7,July,Kharif,Wheat,10.5,123.6,22.9,2285,11,6,0,22,Medium
+1154,Tractor,Tamil Nadu,Erode,2,February,Rabi,Cotton,18.2,56.7,35.2,1672,32,11,0,30,High
+1155,Seed Drill,Maharashtra,Pune,3,March,Rabi,Vegetables,20.7,84.2,31.8,1195,3,2,0,25,Medium
+1156,Rotavator,Andhra Pradesh,Guntur,4,April,Summer,Vegetables,21.5,13.3,25.0,1541,13,10,0,21,Medium
+1157,Thresher,Karnataka,Mysuru,3,March,Rabi,Groundnut,19.3,51.1,28.2,2554,10,6,0,17,Medium
+1158,Power Tiller,Tamil Nadu,Erode,10,October,Kharif,Sugarcane,22.6,144.5,31.7,848,10,8,1,34,High
+1159,Plough,Karnataka,Mandya,7,July,Kharif,Cotton,1.3,97.9,36.5,846,0,3,0,15,Medium
+1160,Tractor,Maharashtra,Pune,7,July,Kharif,Millets,10.8,157.5,24.4,1994,15,15,0,16,Medium
+1161,Rotavator,Karnataka,Mandya,10,October,Kharif,Groundnut,29.6,175.3,29.9,1193,0,11,0,22,Medium
+1162,Rotavator,Tamil Nadu,Erode,10,October,Kharif,Maize,9.5,186.1,18.8,1367,17,6,1,36,High
+1163,Tractor,Karnataka,Hassan,1,January,Rabi,Wheat,14.9,0.0,31.4,2055,16,8,0,27,Medium
+1164,Tractor,Karnataka,Belagavi,1,January,Rabi,Sugarcane,29.4,56.8,23.1,1404,3,9,0,28,Medium
+1165,Plough,Karnataka,Mandya,2,February,Rabi,Millets,19.4,43.2,28.6,1008,4,12,0,19,Medium
+1166,Rotavator,Karnataka,Mysuru,3,March,Rabi,Millets,7.2,32.3,27.4,1497,37,15,0,26,Medium
+1167,Sprayer,Tamil Nadu,Erode,7,July,Kharif,Millets,4.2,84.3,29.0,576,32,12,0,25,Medium
+1168,Tractor,Karnataka,Mandya,7,July,Kharif,Sugarcane,19.1,126.5,23.5,1433,32,11,0,37,High
+1169,Sprayer,Telangana,Warangal,12,December,Rabi,Sugarcane,1.7,0.0,28.7,589,0,8,0,11,Low
+1170,Harvester,Andhra Pradesh,Guntur,3,March,Rabi,Groundnut,29.2,30.6,25.7,4290,20,1,0,41,High
+1171,Harvester,Telangana,Warangal,8,August,Kharif,Maize,7.4,127.2,28.9,4539,43,7,0,33,High
+1172,Tractor,Andhra Pradesh,Guntur,4,April,Summer,Groundnut,17.2,0.6,32.2,2084,16,9,0,18,Medium
+1173,Plough,Karnataka,Mandya,8,August,Kharif,Wheat,24.5,169.7,29.5,862,29,3,0,41,High
+1174,Tractor,Karnataka,Mandya,6,June,Kharif,Wheat,19.4,83.9,28.2,1911,38,17,0,34,High
+1175,Plough,Karnataka,Hassan,5,May,Summer,Vegetables,28.2,0.0,28.7,973,34,13,0,35,High
+1176,Thresher,Karnataka,Hassan,4,April,Summer,Maize,11.8,0.0,32.5,2743,19,0,1,31,High
+1177,Seed Drill,Telangana,Warangal,8,August,Kharif,Maize,10.1,200.2,26.9,1092,20,0,0,30,High
+1178,Rotavator,Karnataka,Hassan,2,February,Rabi,Paddy,28.6,103.7,27.6,1393,34,1,0,43,High
+1179,Seed Drill,Maharashtra,Pune,8,August,Kharif,Maize,22.3,146.6,25.7,1191,9,6,0,22,Medium
+1180,Tractor,Andhra Pradesh,Guntur,10,October,Kharif,Cotton,27.7,158.7,31.3,1893,32,12,1,40,High
+1181,Tractor,Telangana,Warangal,10,October,Kharif,Wheat,11.2,219.7,27.2,1922,15,7,1,38,High
+1182,Tractor,Karnataka,Mysuru,4,April,Summer,Cotton,11.9,29.5,23.4,1939,37,16,1,35,High
+1183,Tractor,Telangana,Warangal,11,November,Rabi,Sugarcane,10.2,28.0,25.6,1922,22,13,1,27,Medium
+1184,Sprayer,Tamil Nadu,Coimbatore,9,September,Kharif,Maize,20.2,75.4,26.8,798,12,0,1,37,High
+1185,Power Tiller,Karnataka,Mysuru,9,September,Kharif,Millets,8.1,210.7,29.9,1295,15,11,0,12,Low
+1186,Tractor,Karnataka,Belagavi,4,April,Summer,Millets,3.9,62.6,27.7,1748,35,11,0,22,Medium
+1187,Seed Drill,Karnataka,Belagavi,3,March,Rabi,Groundnut,17.5,29.1,21.6,1178,31,1,0,34,High
+1188,Harvester,Maharashtra,Pune,5,May,Summer,Paddy,17.4,0.0,33.7,3976,23,0,0,36,High
+1189,Sprayer,Andhra Pradesh,Guntur,1,January,Rabi,Maize,20.2,83.1,31.3,545,32,15,0,32,High
+1190,Tractor,Karnataka,Mysuru,9,September,Kharif,Maize,16.3,153.0,31.4,1760,39,14,1,45,High
+1191,Harvester,Karnataka,Belagavi,7,July,Kharif,Millets,1.1,201.4,23.3,3587,13,10,0,20,Medium
+1192,Harvester,Maharashtra,Pune,10,October,Kharif,Paddy,28.0,121.5,27.9,4602,40,5,1,52,High
+1193,Thresher,Karnataka,Hassan,3,March,Rabi,Wheat,11.9,15.9,31.7,2057,18,2,1,32,High
+1194,Rotavator,Maharashtra,Pune,1,January,Rabi,Sugarcane,14.7,56.0,31.7,1750,32,12,0,24,Medium
+1195,Rotavator,Tamil Nadu,Erode,11,November,Rabi,Sugarcane,4.9,78.8,32.6,1484,8,14,1,21,Medium
+1196,Thresher,Maharashtra,Pune,12,December,Rabi,Sugarcane,28.7,8.6,31.6,2172,8,16,0,21,Medium
+1197,Rotavator,Karnataka,Mandya,7,July,Kharif,Paddy,25.5,106.3,25.6,1465,33,8,0,41,High
+1198,Power Tiller,Maharashtra,Pune,9,September,Kharif,Millets,8.1,101.6,27.3,1082,15,15,0,12,Low
+1199,Tractor,Tamil Nadu,Coimbatore,2,February,Rabi,Wheat,4.8,47.6,22.7,1557,31,9,0,33,High
+1200,Thresher,Karnataka,Belagavi,12,December,Rabi,Maize,15.8,0.0,27.3,2673,34,9,0,28,Medium

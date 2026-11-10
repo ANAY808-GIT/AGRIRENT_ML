@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#fbfaf6] text-slate-800 antialiased font-sans min-h-screen;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight text-slate-900;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-4 py-2.5 rounded-xl font-medium text-white bg-agri-dark hover:bg-agri-primary transition-all duration-200 shadow-sm hover:shadow active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-4 py-2.5 rounded-xl font-medium text-agri-dark bg-emerald-50 hover:bg-emerald-100 border border-emerald-200/80 transition-all duration-200 active:scale-[0.98];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-4 py-2.5 rounded-xl font-medium text-slate-700 bg-white hover:bg-slate-50 border border-slate-200 transition-all duration-200 shadow-sm active:scale-[0.98];
+  }
+
+  .card-agri {
+    @apply bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-shadow duration-300;
+  }
+
+  .badge-tag {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
