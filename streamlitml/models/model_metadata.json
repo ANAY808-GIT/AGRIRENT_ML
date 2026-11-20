@@ -1,0 +1,192 @@
+{
+  "is_synthetic": true,
+  "dataset_disclaimer": "Trained on 1,200 synthetic demonstration records. Designed for platform evaluation and academic presentation.",
+  "total_records": 1200,
+  "best_model": "Linear Regression",
+  "metrics": {
+    "Linear Regression": {
+      "mae": 2.7347,
+      "mse": 11.4983,
+      "rmse": 3.3909,
+      "r2_score": 0.8696
+    },
+    "Random Forest Regressor": {
+      "mae": 3.1323,
+      "mse": 15.1553,
+      "rmse": 3.893,
+      "r2_score": 0.8281
+    },
+    "Decision Tree Regressor": {
+      "mae": 4.0238,
+      "mse": 26.9469,
+      "rmse": 5.191,
+      "r2_score": 0.6944
+    }
+  },
+  "machinery_types": [
+    "Harvester",
+    "Plough",
+    "Power Tiller",
+    "Rotavator",
+    "Seed Drill",
+    "Sprayer",
+    "Thresher",
+    "Tractor"
+  ],
+  "states": [
+    "Andhra Pradesh",
+    "Karnataka",
+    "Maharashtra",
+    "Tamil Nadu",
+    "Telangana"
+  ],
+  "districts_by_state": {
+    "Andhra Pradesh": [
+      "Guntur"
+    ],
+    "Tamil Nadu": [
+      "Coimbatore",
+      "Erode"
+    ],
+    "Karnataka": [
+      "Belagavi",
+      "Hassan",
+      "Mandya",
+      "Mysuru"
+    ],
+    "Telangana": [
+      "Warangal"
+    ],
+    "Maharashtra": [
+      "Pune"
+    ]
+  },
+  "seasons": [
+    "Kharif",
+    "Rabi",
+    "Summer"
+  ],
+  "crops": [
+    "Cotton",
+    "Groundnut",
+    "Maize",
+    "Millets",
+    "Paddy",
+    "Sugarcane",
+    "Vegetables",
+    "Wheat"
+  ],
+  "district_weather_defaults": {
+    "Belagavi": {
+      "avg_rainfall": 78.1,
+      "avg_temp": 28.1,
+      "avg_farm_size": 15.7,
+      "avg_bookings": 23.3,
+      "avg_nearby_machinery": 9.0
+    },
+    "Coimbatore": {
+      "avg_rainfall": 71.4,
+      "avg_temp": 28.2,
+      "avg_farm_size": 16.4,
+      "avg_bookings": 20.0,
+      "avg_nearby_machinery": 8.2
+    },
+    "Erode": {
+      "avg_rainfall": 88.1,
+      "avg_temp": 28.0,
+      "avg_farm_size": 14.8,
+      "avg_bookings": 21.7,
+      "avg_nearby_machinery": 8.7
+    },
+    "Guntur": {
+      "avg_rainfall": 81.0,
+      "avg_temp": 29.7,
+      "avg_farm_size": 15.8,
+      "avg_bookings": 23.1,
+      "avg_nearby_machinery": 7.9
+    },
+    "Hassan": {
+      "avg_rainfall": 84.1,
+      "avg_temp": 27.9,
+      "avg_farm_size": 16.1,
+      "avg_bookings": 21.8,
+      "avg_nearby_machinery": 8.9
+    },
+    "Mandya": {
+      "avg_rainfall": 77.2,
+      "avg_temp": 28.1,
+      "avg_farm_size": 15.2,
+      "avg_bookings": 22.3,
+      "avg_nearby_machinery": 8.9
+    },
+    "Mysuru": {
+      "avg_rainfall": 82.2,
+      "avg_temp": 28.3,
+      "avg_farm_size": 16.1,
+      "avg_bookings": 22.8,
+      "avg_nearby_machinery": 9.2
+    },
+    "Pune": {
+      "avg_rainfall": 79.6,
+      "avg_temp": 30.4,
+      "avg_farm_size": 16.3,
+      "avg_bookings": 18.2,
+      "avg_nearby_machinery": 9.0
+    },
+    "Warangal": {
+      "avg_rainfall": 77.9,
+      "avg_temp": 30.1,
+      "avg_farm_size": 14.7,
+      "avg_bookings": 19.3,
+      "avg_nearby_machinery": 8.1
+    }
+  },
+  "machinery_price_defaults": {
+    "Harvester": {
+      "avg_price": 4520.0,
+      "min_price": 3252,
+      "max_price": 6068
+    },
+    "Plough": {
+      "avg_price": 890.0,
+      "min_price": 603,
+      "max_price": 1138
+    },
+    "Power Tiller": {
+      "avg_price": 1007.0,
+      "min_price": 717,
+      "max_price": 1367
+    },
+    "Rotavator": {
+      "avg_price": 1388.0,
+      "min_price": 1049,
+      "max_price": 1870
+    },
+    "Seed Drill": {
+      "avg_price": 1198.0,
+      "min_price": 831,
+      "max_price": 1471
+    },
+    "Sprayer": {
+      "avg_price": 699.0,
+      "min_price": 492,
+      "max_price": 871
+    },
+    "Thresher": {
+      "avg_price": 2161.0,
+      "min_price": 1451,
+      "max_price": 2791
+    },
+    "Tractor": {
+      "avg_price": 1796.0,
+      "min_price": 1277,
+      "max_price": 2338
+    }
+  },
+  "cluster_descriptions": {
+    "0": "Cluster A: High Yield / Peak Demand Agricultural Hub",
+    "1": "Cluster B: Moderate Steady Regional Rental Zone",
+    "2": "Cluster C: Price Sensitive / Small-holder Farming Region",
+    "3": "Cluster D: Emerging Mechanization / Off-Peak Transition"
+  }
+}
